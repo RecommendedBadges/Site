@@ -1,6 +1,7 @@
 {
   "appPageId" : "bbcc3882-6709-4735-993b-a56e9a232259",
   "componentName" : "community_layout:sldsFlexibleLayout",
+  "dataProviders" : [ ],
   "id" : "b27ed4fb-6141-4036-9249-6e2d08ac7e0d",
   "label" : "Too Many Requests",
   "regions" : [ {
