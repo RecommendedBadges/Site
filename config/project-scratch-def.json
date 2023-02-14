@@ -1,5 +1,8 @@
 {
   "orgName": "Demo company",
   "edition": "Developer",
-  "features": []
+  "features": [
+    "ServiceCloud",
+    "SocialCustomerService"
+  ]
 }
