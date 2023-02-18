@@ -23,6 +23,7 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
+    <serverIsDown>SNA_Recommended_Badges1_sf_default_cdn_FXlVO</serverIsDown>
     <siteAdmin>blearn5241@wise-impala-ijbwfx.com</siteAdmin>
     <siteGuestRecordDefaultOwner>blearn5241@wise-impala-ijbwfx.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
