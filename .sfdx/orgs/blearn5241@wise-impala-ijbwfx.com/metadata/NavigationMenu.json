@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-26T18:20:58.000Z",
+      "fileName": "navigationMenus/SFDC_Default_Navigation_Recommended Badges.navigationMenu",
+      "fullName": "SFDC_Default_Navigation_Recommended Badges",
+      "id": "0Lm8c000000XkftCAC",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-26T18:20:58.000Z",
+      "manageableState": "unmanaged",
+      "type": "NavigationMenu"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-18T13:55:55.000Z",
+      "fileName": "navigationMenus/SFDC_Default_Navigation_Recommended Badges %28Enhanced%29.navigationMenu",
+      "fullName": "SFDC_Default_Navigation_Recommended Badges %28Enhanced%29",
+      "id": "0Lm8c000000scnnCAA",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-18T13:55:55.000Z",
+      "manageableState": "unmanaged",
+      "type": "NavigationMenu"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-17T19:30:42.000Z",
+      "fileName": "navigationMenus/SFDC_Default_Navigation_Customer Service.navigationMenu",
+      "fullName": "SFDC_Default_Navigation_Customer Service",
+      "id": "0Lm8c000000scniCAA",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-17T19:30:42.000Z",
+      "manageableState": "unmanaged",
+      "type": "NavigationMenu"
+    }
+  ]
+}

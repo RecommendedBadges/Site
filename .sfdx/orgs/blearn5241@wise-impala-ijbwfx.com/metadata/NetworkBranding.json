@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-18T13:55:55.000Z",
+      "fileName": "networkBranding/cbRecommended_Badges_Enhanced.networkBranding",
+      "fullName": "cbRecommended_Badges_Enhanced",
+      "id": "07W8c000000sZfnEAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-18T13:55:55.000Z",
+      "type": "NetworkBranding"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-26T18:20:58.000Z",
+      "fileName": "networkBranding/cbRecommended_Badges.networkBranding",
+      "fullName": "cbRecommended_Badges",
+      "id": "07W8c000000MxJXEA0",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-26T18:20:58.000Z",
+      "type": "NetworkBranding"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-17T19:30:42.000Z",
+      "fileName": "networkBranding/cbCustomer_Service.networkBranding",
+      "fullName": "cbCustomer_Service",
+      "id": "07W8c000000sZfiEAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-17T19:30:42.000Z",
+      "type": "NetworkBranding"
+    }
+  ]
+}

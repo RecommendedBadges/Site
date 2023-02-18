@@ -1,0 +1,45 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-03-15T03:51:59.000Z",
+      "fileName": "contentassets/mixerremovebgpreview.asset",
+      "fullName": "mixerremovebgpreview",
+      "id": "03S8c000000GRQDEA4",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-03-15T03:52:01.000Z",
+      "manageableState": "installedEditable",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-03-15T03:51:58.000Z",
+      "fileName": "contentassets/mixer_mobile.asset",
+      "fullName": "mixer_mobile",
+      "id": "03S8c000000GRQCEA4",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-03-15T03:52:01.000Z",
+      "manageableState": "installedEditable",
+      "type": "ContentAsset"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-23T17:35:45.000Z",
+      "fileName": "contentassets/trlhdtips__thflogo.asset",
+      "fullName": "trlhdtips__thflogo",
+      "id": "03S8c000000F0hyEAC",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-23T17:35:45.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trlhdtips",
+      "type": "ContentAsset"
+    }
+  ]
+}

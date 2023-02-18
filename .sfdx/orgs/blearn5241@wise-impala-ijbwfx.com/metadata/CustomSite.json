@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-17T19:30:40.000Z",
+      "fileName": "sites/Customer_Service.site",
+      "fullName": "Customer_Service",
+      "id": "0DM8c000000xCmZGAU",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-17T19:30:42.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-26T18:20:53.000Z",
+      "fileName": "sites/Recommended_Badges.site",
+      "fullName": "Recommended_Badges",
+      "id": "0DM8c000000NnqqGAC",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-17T21:02:28.000Z",
+      "type": "CustomSite"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-18T13:55:54.000Z",
+      "fileName": "sites/Recommended_Badges_Enhanced.site",
+      "fullName": "Recommended_Badges_Enhanced",
+      "id": "0DM8c000000xCmeGAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-18T13:55:55.000Z",
+      "type": "CustomSite"
+    }
+  ]
+}

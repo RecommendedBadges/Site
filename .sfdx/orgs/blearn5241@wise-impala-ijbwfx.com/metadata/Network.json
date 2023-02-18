@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-26T18:20:58.000Z",
+      "fileName": "networks/Recommended Badges.network",
+      "fullName": "Recommended Badges",
+      "id": "0DB8c000000poDyGAI",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-17T19:15:15.000Z",
+      "type": "Network"
+    }
+  ]
+}

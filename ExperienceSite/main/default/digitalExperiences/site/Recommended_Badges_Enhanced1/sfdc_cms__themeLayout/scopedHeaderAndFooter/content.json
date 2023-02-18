@@ -1,0 +1,55 @@
+{
+  "type" : "sfdc_cms__themeLayout",
+  "title" : "Scoped Header and Footer",
+  "contentBody" : {
+    "component" : {
+      "attributes" : { },
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"069c09b5-7efe-4a22-b995-dff1935b758d\",\"columns\":[{\"UUID\":\"5895ab82-d6de-4777-b5a5-11b2ae375fc8\",\"columnName\":\"Column 1\",\"columnKey\":\"headerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "id" : "5895ab82-d6de-4777-b5a5-11b2ae375fc8",
+            "name" : "headerSection",
+            "title" : "Theme Header",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "069c09b5-7efe-4a22-b995-dff1935b758d",
+          "type" : "component"
+        } ],
+        "id" : "3ad71896-29bc-45c5-9a9e-8e23ebfe81f1",
+        "name" : "header",
+        "title" : "Theme Header",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"7a381bde-1064-498c-9e21-30d167035699\",\"columns\":[{\"UUID\":\"dd022c1e-f789-44f8-9b9c-fe303d9de7a8\",\"columnName\":\"Column 1\",\"columnKey\":\"footerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "id" : "dd022c1e-f789-44f8-9b9c-fe303d9de7a8",
+            "name" : "footerSection",
+            "title" : "Theme Footer",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "7a381bde-1064-498c-9e21-30d167035699",
+          "type" : "component"
+        } ],
+        "id" : "f84564a3-2252-4f6b-9c62-cb45c272ad02",
+        "name" : "footer",
+        "title" : "Theme Footer",
+        "type" : "region"
+      } ],
+      "definition" : "community_byo:scopedHeaderAndFooter",
+      "id" : "4e13fbef-4c1d-44c8-9f28-a7510cad3e6d",
+      "type" : "component"
+    }
+  }
+}

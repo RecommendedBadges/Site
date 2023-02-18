@@ -1,0 +1,87 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-23T19:12:51.000Z",
+      "fileName": "remoteSiteSettings/trailheadapp__Trailhead_API.remoteSite",
+      "fullName": "trailheadapp__Trailhead_API",
+      "id": "0rp8c0000015NkuAAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-23T19:12:51.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trailheadapp",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-23T19:12:51.000Z",
+      "fileName": "remoteSiteSettings/trailheadapp__TrailheadAssets.remoteSite",
+      "fullName": "trailheadapp__TrailheadAssets",
+      "id": "0rp8c0000015NktAAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-23T19:12:51.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trailheadapp",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-23T17:35:45.000Z",
+      "fileName": "remoteSiteSettings/ApexDevNet.remoteSite",
+      "fullName": "ApexDevNet",
+      "id": "0rp8c0000015LAaAAM",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-23T17:35:45.000Z",
+      "manageableState": "unmanaged",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-01-16T02:41:19.000Z",
+      "fileName": "remoteSiteSettings/Salesforce_Status_API.remoteSite",
+      "fullName": "Salesforce_Status_API",
+      "id": "0rp8c000001DjoeAAC",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-01-16T02:41:19.000Z",
+      "manageableState": "installedEditable",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-23T19:12:51.000Z",
+      "fileName": "remoteSiteSettings/trailheadapp__Salesforce_Login.remoteSite",
+      "fullName": "trailheadapp__Salesforce_Login",
+      "id": "0rp8c0000015NksAAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-23T19:12:51.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trailheadapp",
+      "type": "RemoteSiteSetting"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-23T19:12:51.000Z",
+      "fileName": "remoteSiteSettings/trailheadapp__Trailhead_Icons.remoteSite",
+      "fullName": "trailheadapp__Trailhead_Icons",
+      "id": "0rp8c0000015NtxAAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-23T19:12:51.000Z",
+      "manageableState": "installed",
+      "namespacePrefix": "trailheadapp",
+      "type": "RemoteSiteSetting"
+    }
+  ]
+}

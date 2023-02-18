@@ -1,0 +1,41 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-18T13:55:55.000Z",
+      "fileName": "audience/Default2.audience",
+      "fullName": "Default2",
+      "id": "6Au8c000000scBoCAI",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-18T13:55:56.000Z",
+      "type": "Audience"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2022-02-26T18:20:58.000Z",
+      "fileName": "audience/Default.audience",
+      "fullName": "Default",
+      "id": "6Au8c000000CiXZCA0",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2022-02-26T18:20:59.000Z",
+      "type": "Audience"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-17T19:30:42.000Z",
+      "fileName": "audience/Default1.audience",
+      "fullName": "Default1",
+      "id": "6Au8c000000scBjCAI",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-17T19:30:43.000Z",
+      "type": "Audience"
+    }
+  ]
+}

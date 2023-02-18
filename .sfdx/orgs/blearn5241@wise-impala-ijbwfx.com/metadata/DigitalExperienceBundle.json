@@ -1,0 +1,17 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-02-18T13:55:57.000Z",
+      "fileName": "digitalExperiences/site/Recommended_Badges_Enhanced1.digitalExperience",
+      "fullName": "site/Recommended_Badges_Enhanced1",
+      "id": "0jd8c000000oLpfAAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-02-18T13:55:57.000Z",
+      "type": "DigitalExperienceBundle"
+    }
+  ]
+}
