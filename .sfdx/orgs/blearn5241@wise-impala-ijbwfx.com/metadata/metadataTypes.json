@@ -938,6 +938,13 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "experiencePropertyTypeBundles",
+        "inFolder": false,
+        "metaFile": false,
+        "xmlName": "ExperiencePropertyTypeBundle",
+        "childXmlNames": []
+      },
+      {
         "childXmlNames": [
           "DigitalExperience"
         ],
@@ -1237,6 +1244,14 @@
         "childXmlNames": []
       },
       {
+        "directoryName": "ActionLauncherItemDef",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "actionLauncherItemDef",
+        "xmlName": "ActionLauncherItemDef",
+        "childXmlNames": []
+      },
+      {
         "directoryName": "recordActionDeployments",
         "inFolder": false,
         "metaFile": false,
@@ -1290,6 +1305,14 @@
         "metaFile": false,
         "suffix": "userProfileSearchScope",
         "xmlName": "UserProfileSearchScope",
+        "childXmlNames": []
+      },
+      {
+        "directoryName": "searchCustomizations",
+        "inFolder": false,
+        "metaFile": false,
+        "suffix": "searchCustomization",
+        "xmlName": "SearchCustomization",
         "childXmlNames": []
       },
       {

@@ -104,10 +104,6 @@
         <apexClass>SiteRegisterControllerTest</apexClass>
         <enabled>false</enabled>
     </classAccesses>
-    <classAccesses>
-        <apexClass>SortCustomMetadataService</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
     <custom>true</custom>
     <pageAccesses>
         <apexPage>AnswersHome</apexPage>
