@@ -13,6 +13,13 @@
           "children" : [ {
             "children" : [ {
               "attributes" : {
+                "navigationLinkSetDeveloperName" : "Recommended_Badges_Enhanced_Navigation"
+              },
+              "definition" : "c:rbNavigationMenu",
+              "id" : "031cd750-d522-4ec3-b621-dbf37e3d2cda",
+              "type" : "component"
+            }, {
+              "attributes" : {
                 "dxpStyle" : {
                   "margin" : "{\"top\":\"\",\"right\":\"\",\"bottom\":\"\",\"left\":\"\"}"
                 }

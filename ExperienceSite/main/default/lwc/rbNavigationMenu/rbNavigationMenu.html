@@ -1,0 +1,21 @@
+<!--
+  @description       : Navigation menu component for a Recommended Badges site.
+  @author            : Ben Learn
+  @last modified on  : 03-04-2023
+  @last modified by  : Ben Learn
+-->
+<template>
+    <div class="navbar slds-border_bottom">
+        <div role="navigation" class="slds-align_absolute-center">
+            <ul class="slds-list_horizontal slds-has-dividers_right slds-has-block-links_space">
+                <template if:true={isLoaded}>
+                    <template for:each={navigationMenuItems} for:item="navigationMenuItem">
+                        <li key={navigationMenuItem.id} class="slds-item">
+                            <c-rb-navigation-menu-item navigation-menu-item={navigationMenuItem}></c-rb-navigation-menu-item>
+                        </li>
+                    </template>
+                </template>
+            </ul>
+        </div>
+    </div>
+</template>
