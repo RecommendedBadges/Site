@@ -4,5 +4,18 @@
   "isProgressiveRenderingEnabled" : false,
   "mainAppPageId" : "bbcc3882-6709-4735-993b-a56e9a232259",
   "preferredDomain" : "none",
+  "trustedSitesForScript" : [ {
+    "id" : "0b1212ea-5796-42c4-a9c4-82be76556adc",
+    "isActive" : true,
+    "trustedSiteName" : "Google Analytics",
+    "trustedSiteUrl" : "https://www.google-analytics.com",
+    "type" : "trustedSitesForScripts"
+  }, {
+    "id" : "def8f7ca-e1dc-48da-ab22-f8e1d154380a",
+    "isActive" : true,
+    "trustedSiteName" : "Google Tag Manager",
+    "trustedSiteUrl" : "https://www.googletagmanager.com",
+    "type" : "trustedSitesForScripts"
+  } ],
   "type" : "site"
 }

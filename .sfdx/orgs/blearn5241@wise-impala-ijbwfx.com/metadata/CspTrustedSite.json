@@ -1,0 +1,44 @@
+{
+  "status": 0,
+  "result": [
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-03-09T23:11:49.000Z",
+      "fileName": "cspTrustedSites/stats_g_doubleclick_net.cspTrustedSite",
+      "fullName": "stats_g_doubleclick_net",
+      "id": "08y8c000000wmblAAA",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-03-09T23:11:49.000Z",
+      "manageableState": "unmanaged",
+      "type": "CspTrustedSite"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-03-09T23:03:45.000Z",
+      "fileName": "cspTrustedSites/GoogleAnalyltics.cspTrustedSite",
+      "fullName": "GoogleAnalyltics",
+      "id": "08y8c000000wmbgAAA",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-03-09T23:07:07.000Z",
+      "manageableState": "unmanaged",
+      "type": "CspTrustedSite"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2023-03-09T23:11:50.000Z",
+      "fileName": "cspTrustedSites/www_googletagmanager_com.cspTrustedSite",
+      "fullName": "www_googletagmanager_com",
+      "id": "08y8c000000wmbmAAA",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2023-03-09T23:11:50.000Z",
+      "manageableState": "unmanaged",
+      "type": "CspTrustedSite"
+    }
+  ]
+}
