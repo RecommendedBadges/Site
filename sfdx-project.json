@@ -3,6 +3,9 @@
     {
       "path": "ExperienceSite",
       "default": true
+    },
+    {
+      "path": "SFBase"
     }
   ],
   "name": "RecommendedBadgesSite",

@@ -1,0 +1,605 @@
+{
+    "serverMaxRevisionCounter": 197,
+    "sourceMembers": {
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_sales_reports_folderSPLIT1716943909004/prm_opportunity_by_amountSPLIT1716943909004": {
+            "serverRevisionCounter": 19,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_sales_reports_folderSPLIT1716943909004/prm_revenue_closedSPLIT1716943909004": {
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_sales_reports_folderSPLIT1716943909004/prm_lead_conversionSPLIT1716943909004": {
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_sales_reports_folderSPLIT1716943909004/prm_open_opportunity_by_stageSPLIT1716943909004": {
+            "serverRevisionCounter": 22,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_sales_reports_folderSPLIT1716943909004/prm_open_opportunity_by_partnerSPLIT1716943909004": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_ch_marketing_reports_folderSPLIT1716943909004/prm_mdf_approved_request_by_partnerSPLIT1716943909004": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_ch_marketing_reports_folderSPLIT1716943909004/prm_submitted_claim_by_partnerSPLIT1716943909004": {
+            "serverRevisionCounter": 30,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_ch_marketing_reports_folderSPLIT1716943909004/prm_total_marketing_budgetSPLIT1716943909004": {
+            "serverRevisionCounter": 33,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_ch_marketing_reports_folderSPLIT1716943909004/prm_approved_claim_by_partnerSPLIT1716943909004": {
+            "serverRevisionCounter": 34,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_ch_marketing_reports_folderSPLIT1716943909004/prm_mdf_submitted_request_by_partnerSPLIT1716943909004": {
+            "serverRevisionCounter": 35,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_pt_engagement_reports_folderSPLIT1716943909004/prm_unique_portal_login_reportSPLIT1716943909004": {
+            "serverRevisionCounter": 39,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_pt_engagement_reports_folderSPLIT1716943909004/prm_total_portal_login_reportSPLIT1716943909004": {
+            "serverRevisionCounter": 42,
+            "lastRetrievedFromServer": null,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder": {
+            "serverRevisionCounter": 7,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder": {
+            "serverRevisionCounter": 8,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004": {
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_prod_reports_folderSPLIT1716943909004": {
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1716943909004/prm_winter24_ch_sales_reports_folderSPLIT1716943909004": {
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004": {
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_ch_marketing_reports_folderSPLIT1716943909004": {
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1716943909004/prm_spring24_pt_engagement_reports_folderSPLIT1716943909004": {
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder": {
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": null,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder": {
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": null,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_winter24_dashboardsSPLIT1716943909004": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": null,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_spring24_dashboardsSPLIT1716943909004": {
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": null,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "Dashboard__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_winter24_dashboardsSPLIT1716943909004/prm_winter24_ch_sales_dashboardSPLIT1716943909004": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": null,
+            "memberType": "Dashboard",
+            "isNameObsolete": false
+        },
+        "Dashboard__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_spring24_dashboardsSPLIT1716943909004/prm_spring24_ch_marketing_dashboardSPLIT1716943909004": {
+            "serverRevisionCounter": 36,
+            "lastRetrievedFromServer": null,
+            "memberType": "Dashboard",
+            "isNameObsolete": false
+        },
+        "Dashboard__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_winter24_dashboardsSPLIT1716943909004/cmc_spring_24_cmc_home_dashboard": {
+            "serverRevisionCounter": 43,
+            "lastRetrievedFromServer": null,
+            "memberType": "Dashboard",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_partner_fund_request_crt": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__MDF_Claim_Request_Crt": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_partner_marketing_budget_crt": {
+            "serverRevisionCounter": 32,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_unique_portal_crt": {
+            "serverRevisionCounter": 38,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_total_portal_login_crt": {
+            "serverRevisionCounter": 41,
+            "lastRetrievedFromServer": null,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "FlexiPage__LightningSalesConsole_UtilityBar": {
+            "serverRevisionCounter": 44,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "AppMenu__AppSwitcher": {
+            "serverRevisionCounter": 45,
+            "lastRetrievedFromServer": null,
+            "memberType": "AppMenu",
+            "isNameObsolete": false
+        },
+        "Profile__Recommended Badges Profile": {
+            "serverRevisionCounter": 156,
+            "lastRetrievedFromServer": 156,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 126,
+            "lastRetrievedFromServer": null,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesLandingController": {
+            "serverRevisionCounter": 136,
+            "lastRetrievedFromServer": 136,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__RBNavigationMenuController": {
+            "serverRevisionCounter": 137,
+            "lastRetrievedFromServer": 137,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ContentAsset__trailhead800x500": {
+            "serverRevisionCounter": 155,
+            "lastRetrievedFromServer": 155,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesLanding": {
+            "serverRevisionCounter": 153,
+            "lastRetrievedFromServer": 153,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ReportType__Sites_with_Limit_Usage_Histories": {
+            "serverRevisionCounter": 154,
+            "lastRetrievedFromServer": 154,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "StaticResource__SNA_Recommended_Badges1_sf_default_cdn_FXlVO": {
+            "serverRevisionCounter": 138,
+            "lastRetrievedFromServer": 138,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "StaticResource__SNA_Recommended_Badges_Enhanced1_sf_default_cdn_3Bq2x": {
+            "serverRevisionCounter": 139,
+            "lastRetrievedFromServer": 139,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "CspTrustedSite__GStatsDoubleClick": {
+            "serverRevisionCounter": 159,
+            "lastRetrievedFromServer": 159,
+            "memberType": "CspTrustedSite",
+            "isNameObsolete": false
+        },
+        "CspTrustedSite__GoogleAnalyltics": {
+            "serverRevisionCounter": 160,
+            "lastRetrievedFromServer": 160,
+            "memberType": "CspTrustedSite",
+            "isNameObsolete": false
+        },
+        "CspTrustedSite__GoogleTagManager": {
+            "serverRevisionCounter": 161,
+            "lastRetrievedFromServer": 161,
+            "memberType": "CspTrustedSite",
+            "isNameObsolete": false
+        },
+        "Network__Recommended Badges": {
+            "serverRevisionCounter": 195,
+            "lastRetrievedFromServer": 195,
+            "memberType": "Network",
+            "isNameObsolete": false
+        },
+        "Network__Recommended Badges (Enhanced)": {
+            "serverRevisionCounter": 196,
+            "lastRetrievedFromServer": 196,
+            "memberType": "Network",
+            "isNameObsolete": false
+        },
+        "CustomSite__Recommended_Badges": {
+            "serverRevisionCounter": 162,
+            "lastRetrievedFromServer": 162,
+            "memberType": "CustomSite",
+            "isNameObsolete": false
+        },
+        "CustomSite__Recommended_Badges_Enhanced": {
+            "serverRevisionCounter": 163,
+            "lastRetrievedFromServer": 163,
+            "memberType": "CustomSite",
+            "isNameObsolete": false
+        },
+        "DigitalExperienceConfig__Recommended_Badges_Enhanced1": {
+            "serverRevisionCounter": 193,
+            "lastRetrievedFromServer": 193,
+            "memberType": "DigitalExperienceConfig",
+            "isNameObsolete": false
+        },
+        "ExperienceBundle__Recommended_Badges1": {
+            "serverRevisionCounter": 194,
+            "lastRetrievedFromServer": 194,
+            "memberType": "ExperienceBundle",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Recommended_Badges1/brandingSets/buildYourOwnLWR.json": {
+            "serverRevisionCounter": 134,
+            "lastRetrievedFromServer": null,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Recommended_Badges_Enhanced_Navigation": {
+            "serverRevisionCounter": 197,
+            "lastRetrievedFromServer": 197,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Digital_Experiences_Permissions": {
+            "serverRevisionCounter": 157,
+            "lastRetrievedFromServer": 157,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Guest_User_Permissions": {
+            "serverRevisionCounter": 158,
+            "lastRetrievedFromServer": 158,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__rbNavigationMenu": {
+            "serverRevisionCounter": 140,
+            "lastRetrievedFromServer": 140,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__rbNavigationMenuItem": {
+            "serverRevisionCounter": 145,
+            "lastRetrievedFromServer": 145,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__singleRegionThemeLayout": {
+            "serverRevisionCounter": 149,
+            "lastRetrievedFromServer": 149,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__singleRegionThemeLayout/singleRegionThemeLayout.js": {
+            "serverRevisionCounter": 150,
+            "lastRetrievedFromServer": 150,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__singleRegionThemeLayout/singleRegionThemeLayout.js-meta.xml": {
+            "serverRevisionCounter": 151,
+            "lastRetrievedFromServer": 151,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__singleRegionThemeLayout/singleRegionThemeLayout.html": {
+            "serverRevisionCounter": 152,
+            "lastRetrievedFromServer": 152,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.js-meta.xml": {
+            "serverRevisionCounter": 141,
+            "lastRetrievedFromServer": 141,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.html": {
+            "serverRevisionCounter": 142,
+            "lastRetrievedFromServer": 142,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.js": {
+            "serverRevisionCounter": 143,
+            "lastRetrievedFromServer": 143,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.svg": {
+            "serverRevisionCounter": 144,
+            "lastRetrievedFromServer": 144,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenuItem/rbNavigationMenuItem.js-meta.xml": {
+            "serverRevisionCounter": 146,
+            "lastRetrievedFromServer": 146,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenuItem/rbNavigationMenuItem.html": {
+            "serverRevisionCounter": 147,
+            "lastRetrievedFromServer": 147,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenuItem/rbNavigationMenuItem.js": {
+            "serverRevisionCounter": 148,
+            "lastRetrievedFromServer": 148,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "DigitalExperienceBundle__site/Recommended_Badges_Enhanced1": {
+            "serverRevisionCounter": 164,
+            "lastRetrievedFromServer": 164,
+            "memberType": "DigitalExperienceBundle",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__languageSettings/languages": {
+            "serverRevisionCounter": 167,
+            "lastRetrievedFromServer": 167,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__mobilePublisherConfig/MCCCRTMJAC6VDVFAJZNSLYIOZVRA": {
+            "serverRevisionCounter": 168,
+            "lastRetrievedFromServer": 168,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__trustedSites/trustedSites": {
+            "serverRevisionCounter": 183,
+            "lastRetrievedFromServer": 183,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__appPage/mainAppPage": {
+            "serverRevisionCounter": 165,
+            "lastRetrievedFromServer": 165,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__brandingSet/Build_Your_Own_LWR": {
+            "serverRevisionCounter": 166,
+            "lastRetrievedFromServer": 166,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Check_Password": {
+            "serverRevisionCounter": 169,
+            "lastRetrievedFromServer": 169,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Error": {
+            "serverRevisionCounter": 170,
+            "lastRetrievedFromServer": 170,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Forgot_Password": {
+            "serverRevisionCounter": 171,
+            "lastRetrievedFromServer": 171,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Home": {
+            "serverRevisionCounter": 172,
+            "lastRetrievedFromServer": 172,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Login": {
+            "serverRevisionCounter": 173,
+            "lastRetrievedFromServer": 173,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/News_Detail__c": {
+            "serverRevisionCounter": 174,
+            "lastRetrievedFromServer": 174,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Register": {
+            "serverRevisionCounter": 175,
+            "lastRetrievedFromServer": 175,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Service_Not_Available": {
+            "serverRevisionCounter": 176,
+            "lastRetrievedFromServer": 176,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Too_Many_Requests": {
+            "serverRevisionCounter": 177,
+            "lastRetrievedFromServer": 177,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__site/Recommended_Badges_Enhanced1": {
+            "serverRevisionCounter": 178,
+            "lastRetrievedFromServer": 178,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__theme/Build_Your_Own_LWR": {
+            "serverRevisionCounter": 179,
+            "lastRetrievedFromServer": 179,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__themeLayout/Single_Region": {
+            "serverRevisionCounter": 180,
+            "lastRetrievedFromServer": 180,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__themeLayout/scopedHeaderAndFooter": {
+            "serverRevisionCounter": 181,
+            "lastRetrievedFromServer": 181,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__themeLayout/snaThemeLayout": {
+            "serverRevisionCounter": 182,
+            "lastRetrievedFromServer": 182,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/checkPasswordResetEmail": {
+            "serverRevisionCounter": 184,
+            "lastRetrievedFromServer": 184,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/error": {
+            "serverRevisionCounter": 185,
+            "lastRetrievedFromServer": 185,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/forgotPassword": {
+            "serverRevisionCounter": 186,
+            "lastRetrievedFromServer": 186,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/home": {
+            "serverRevisionCounter": 187,
+            "lastRetrievedFromServer": 187,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/login": {
+            "serverRevisionCounter": 188,
+            "lastRetrievedFromServer": 188,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/newsDetail": {
+            "serverRevisionCounter": 189,
+            "lastRetrievedFromServer": 189,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/register": {
+            "serverRevisionCounter": 190,
+            "lastRetrievedFromServer": 190,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/serviceNotAvailable": {
+            "serverRevisionCounter": 191,
+            "lastRetrievedFromServer": 191,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/tooManyRequests": {
+            "serverRevisionCounter": 192,
+            "lastRetrievedFromServer": 192,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "Audience__Default": {
+            "serverRevisionCounter": 130,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "Audience__Default1": {
+            "serverRevisionCounter": 132,
+            "lastRetrievedFromServer": null,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        }
+    }
+}
