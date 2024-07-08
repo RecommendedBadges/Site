@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
     <classAccesses>
+        <apexClass>ComponentLogger</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>RBNavigationMenuController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -52,12 +56,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Recommended_Badge__c.Badge_Icon__c</field>
+        <field>Recommended_Badge__c.BadgeName__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Recommended_Badge__c.Badge_Name__c</field>
+        <field>Recommended_Badge__c.Badge_Icon__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -127,67 +131,12 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
-        <field>Recommended_Trail__c.Trail_Name__c</field>
+        <field>Recommended_Trail__c.TrailName__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
         <field>Recommended_Trail__c.URL__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Badge__c.trailheadapp__Badge_Icon__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Badge__c.trailheadapp__Level__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Badge__c.trailheadapp__Products__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Badge__c.trailheadapp__Roles__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Badge__c.trailheadapp__Tags__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Badge__c.trailheadapp__Type__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Trail__c.trailheadapp__Badge_Icon__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Trail__c.trailheadapp__Level__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Trail__c.trailheadapp__Products__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Trail__c.trailheadapp__Roles__c</field>
-        <readable>true</readable>
-    </fieldPermissions>
-    <fieldPermissions>
-        <editable>false</editable>
-        <field>trailheadapp__Trail__c.trailheadapp__Tags__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <hasActivationRequired>false</hasActivationRequired>
@@ -228,24 +177,6 @@
         <object>Recommended_Trail__c</object>
         <viewAllRecords>false</viewAllRecords>
     </objectPermissions>
-    <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>trailheadapp__Badge__c</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
-    <objectPermissions>
-        <allowCreate>false</allowCreate>
-        <allowDelete>false</allowDelete>
-        <allowEdit>false</allowEdit>
-        <allowRead>true</allowRead>
-        <modifyAllRecords>false</modifyAllRecords>
-        <object>trailheadapp__Trail__c</object>
-        <viewAllRecords>false</viewAllRecords>
-    </objectPermissions>
     <recordTypeVisibilities>
         <recordType>Mix_Category__c.Exam_Category</recordType>
         <visible>true</visible>
@@ -260,14 +191,6 @@
     </tabSettings>
     <tabSettings>
         <tab>Recommended_Badge_Mix__c</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
-        <tab>trailheadapp__Badge__c</tab>
-        <visibility>Visible</visibility>
-    </tabSettings>
-    <tabSettings>
-        <tab>trailheadapp__Trail__c</tab>
         <visibility>Visible</visibility>
     </tabSettings>
 </PermissionSet>
