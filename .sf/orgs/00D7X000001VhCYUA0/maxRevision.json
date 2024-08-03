@@ -1,0 +1,1247 @@
+{
+    "serverMaxRevisionCounter": 864,
+    "sourceMembers": {
+        "ListView__RecommendedArticle__c.All": {
+            "serverRevisionCounter": 584,
+            "lastRetrievedFromServer": 584,
+            "memberType": "ListView",
+            "isNameObsolete": false
+        },
+        "CustomField__Recommended_Badge_Mix__c.FreeSFBenPracticeExam__c": {
+            "serverRevisionCounter": 133,
+            "lastRetrievedFromServer": 133,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Recommended_Badge_Mix__c.OfficialExamGuide__c": {
+            "serverRevisionCounter": 134,
+            "lastRetrievedFromServer": 134,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Recommended_Badge_Mix__c.OfficialExamTrailmix__c": {
+            "serverRevisionCounter": 135,
+            "lastRetrievedFromServer": 135,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__Recommended_Badge_Mix__c.OfficialPracticeExam__c": {
+            "serverRevisionCounter": 136,
+            "lastRetrievedFromServer": 136,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_ch_marketing_reports_folderSPLIT1722043024244/prm_mdf_approved_request_by_partnerSPLIT1722043024244": {
+            "serverRevisionCounter": 21,
+            "lastRetrievedFromServer": 21,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_ch_marketing_reports_folderSPLIT1722043024244/prm_submitted_claim_by_partnerSPLIT1722043024244": {
+            "serverRevisionCounter": 24,
+            "lastRetrievedFromServer": 24,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_ch_marketing_reports_folderSPLIT1722043024244/prm_total_marketing_budgetSPLIT1722043024244": {
+            "serverRevisionCounter": 27,
+            "lastRetrievedFromServer": 27,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_ch_marketing_reports_folderSPLIT1722043024244/prm_approved_claim_by_partnerSPLIT1722043024244": {
+            "serverRevisionCounter": 28,
+            "lastRetrievedFromServer": 28,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_ch_marketing_reports_folderSPLIT1722043024244/prm_mdf_submitted_request_by_partnerSPLIT1722043024244": {
+            "serverRevisionCounter": 29,
+            "lastRetrievedFromServer": 29,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_pt_engagement_reports_folderSPLIT1722043024244/prm_unique_portal_login_reportSPLIT1722043024244": {
+            "serverRevisionCounter": 33,
+            "lastRetrievedFromServer": 33,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Report__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_pt_engagement_reports_folderSPLIT1722043024244/prm_total_portal_login_reportSPLIT1722043024244": {
+            "serverRevisionCounter": 36,
+            "lastRetrievedFromServer": 36,
+            "memberType": "Report",
+            "isNameObsolete": false
+        },
+        "Profile__Admin": {
+            "serverRevisionCounter": 851,
+            "lastRetrievedFromServer": 643,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__B2B Reordering Portal Buyer Profile": {
+            "serverRevisionCounter": 582,
+            "lastRetrievedFromServer": 582,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Recommended Badges Profile": {
+            "serverRevisionCounter": 578,
+            "lastRetrievedFromServer": 578,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Profile__Recommended Badges (Enhanced) Profile": {
+            "serverRevisionCounter": 576,
+            "lastRetrievedFromServer": 576,
+            "memberType": "Profile",
+            "isNameObsolete": false
+        },
+        "Layout__Global-Global Layout": {
+            "serverRevisionCounter": 588,
+            "lastRetrievedFromServer": 588,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__DefaultObjectSelector__mdt-SObjectSelector Layout": {
+            "serverRevisionCounter": 652,
+            "lastRetrievedFromServer": 652,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__DefaultServiceImplementation__mdt-Service Layout": {
+            "serverRevisionCounter": 653,
+            "lastRetrievedFromServer": 653,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__Recommended_Badge_Mix__c-Recommended Badge Mix Layout": {
+            "serverRevisionCounter": 207,
+            "lastRetrievedFromServer": 207,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__TrailTrackerProviderFieldMapping__mdt-Trail Tracker Provider Mapping Layout": {
+            "serverRevisionCounter": 654,
+            "lastRetrievedFromServer": 654,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__TrailTrackerProviderObjectMapping__mdt-Trail Tracker Provider Object Mapping Layout": {
+            "serverRevisionCounter": 655,
+            "lastRetrievedFromServer": 655,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "Layout__RecommendedArticle__c-Recommended Article Layout": {
+            "serverRevisionCounter": 575,
+            "lastRetrievedFromServer": 575,
+            "memberType": "Layout",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder": {
+            "serverRevisionCounter": 7,
+            "lastRetrievedFromServer": 7,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder": {
+            "serverRevisionCounter": 8,
+            "lastRetrievedFromServer": 8,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1722043024244": {
+            "serverRevisionCounter": 9,
+            "lastRetrievedFromServer": 9,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1722043024244/prm_winter24_ch_prod_reports_folderSPLIT1722043024244": {
+            "serverRevisionCounter": 10,
+            "lastRetrievedFromServer": 10,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_winter24_reportsSPLIT1722043024244/prm_winter24_ch_sales_reports_folderSPLIT1722043024244": {
+            "serverRevisionCounter": 11,
+            "lastRetrievedFromServer": 11,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244": {
+            "serverRevisionCounter": 12,
+            "lastRetrievedFromServer": 12,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_ch_marketing_reports_folderSPLIT1722043024244": {
+            "serverRevisionCounter": 13,
+            "lastRetrievedFromServer": 13,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "ReportFolder__prm_channel_reports_folder/prm_ch_reports_sub_folder/prm_spring24_reportsSPLIT1722043024244/prm_spring24_pt_engagement_reports_folderSPLIT1722043024244": {
+            "serverRevisionCounter": 14,
+            "lastRetrievedFromServer": 14,
+            "memberType": "ReportFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder": {
+            "serverRevisionCounter": 15,
+            "lastRetrievedFromServer": 15,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder": {
+            "serverRevisionCounter": 16,
+            "lastRetrievedFromServer": 16,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_winter24_dashboardsSPLIT1722043024244": {
+            "serverRevisionCounter": 17,
+            "lastRetrievedFromServer": 17,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "DashboardFolder__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_spring24_dashboardsSPLIT1722043024244": {
+            "serverRevisionCounter": 18,
+            "lastRetrievedFromServer": 18,
+            "memberType": "DashboardFolder",
+            "isNameObsolete": false
+        },
+        "RecordType__Mix_Category__c.Exam_Category": {
+            "serverRevisionCounter": 198,
+            "lastRetrievedFromServer": 198,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Mix_Category__c.Standard": {
+            "serverRevisionCounter": 199,
+            "lastRetrievedFromServer": 199,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Recommended_Badge_Mix__c.Exam": {
+            "serverRevisionCounter": 200,
+            "lastRetrievedFromServer": 200,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "RecordType__Recommended_Badge_Mix__c.Standard": {
+            "serverRevisionCounter": 201,
+            "lastRetrievedFromServer": 201,
+            "memberType": "RecordType",
+            "isNameObsolete": false
+        },
+        "CustomObject__Mix_Category__c": {
+            "serverRevisionCounter": 574,
+            "lastRetrievedFromServer": 574,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomObject__Recommended_Badge_Mix__c": {
+            "serverRevisionCounter": 573,
+            "lastRetrievedFromServer": 573,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomObject__Recommended_Badge__c": {
+            "serverRevisionCounter": 570,
+            "lastRetrievedFromServer": 570,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomObject__Recommended_Trail__c": {
+            "serverRevisionCounter": 572,
+            "lastRetrievedFromServer": 572,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "CustomObject__RecommendedArticle__c": {
+            "serverRevisionCounter": 580,
+            "lastRetrievedFromServer": 580,
+            "memberType": "CustomObject",
+            "isNameObsolete": false
+        },
+        "Dashboard__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_spring24_dashboardsSPLIT1722043024244/prm_spring24_ch_marketing_dashboardSPLIT1722043024244": {
+            "serverRevisionCounter": 30,
+            "lastRetrievedFromServer": 30,
+            "memberType": "Dashboard",
+            "isNameObsolete": false
+        },
+        "Dashboard__prm_channel_dashboard_folder/prm_ch_dashboards_sub_folder/prm_winter24_dashboardsSPLIT1722043024244/cmc_spring_24_cmc_home_dashboard": {
+            "serverRevisionCounter": 37,
+            "lastRetrievedFromServer": 37,
+            "memberType": "Dashboard",
+            "isNameObsolete": false
+        },
+        "ApexClass__RecommendedBadgeMixController": {
+            "serverRevisionCounter": 505,
+            "lastRetrievedFromServer": 505,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__RecommendedBadgeMixControllerTests": {
+            "serverRevisionCounter": 144,
+            "lastRetrievedFromServer": 144,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__CommunitiesLandingController": {
+            "serverRevisionCounter": 280,
+            "lastRetrievedFromServer": 280,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "ApexClass__RBNavigationMenuController": {
+            "serverRevisionCounter": 852,
+            "lastRetrievedFromServer": 852,
+            "memberType": "ApexClass",
+            "isNameObsolete": false
+        },
+        "CustomTab__RecommendedArticle__c": {
+            "serverRevisionCounter": 581,
+            "lastRetrievedFromServer": 581,
+            "memberType": "CustomTab",
+            "isNameObsolete": false
+        },
+        "CustomApplication__Mixer": {
+            "serverRevisionCounter": 609,
+            "lastRetrievedFromServer": 609,
+            "memberType": "CustomApplication",
+            "isNameObsolete": false
+        },
+        "CustomApplication__Mixer_Mobile": {
+            "serverRevisionCounter": 613,
+            "lastRetrievedFromServer": 613,
+            "memberType": "CustomApplication",
+            "isNameObsolete": false
+        },
+        "SharingCriteriaRule__Recommended_Badge_Mix__c.Internal_Read_Access_to_Public_Mixes": {
+            "serverRevisionCounter": 498,
+            "lastRetrievedFromServer": 498,
+            "memberType": "SharingCriteriaRule",
+            "isNameObsolete": false
+        },
+        "SharingGuestRule__Recommended_Badge_Mix__c.External_Read_Access_to_Public_Mixes": {
+            "serverRevisionCounter": 499,
+            "lastRetrievedFromServer": 499,
+            "memberType": "SharingGuestRule",
+            "isNameObsolete": false
+        },
+        "SharingGuestRule__Recommended_Badge_Mix__c.External_Read_Access_to_Public_Mixes_Enhanced_Site": {
+            "serverRevisionCounter": 512,
+            "lastRetrievedFromServer": 512,
+            "memberType": "SharingGuestRule",
+            "isNameObsolete": false
+        },
+        "ContentAsset__trailhead800x500": {
+            "serverRevisionCounter": 362,
+            "lastRetrievedFromServer": 362,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "ContentAsset__RecommendedBadgesLogo": {
+            "serverRevisionCounter": 663,
+            "lastRetrievedFromServer": 663,
+            "memberType": "ContentAsset",
+            "isNameObsolete": true
+        },
+        "ContentAsset__mixer_mobile": {
+            "serverRevisionCounter": 596,
+            "lastRetrievedFromServer": 596,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "ContentAsset__mixerremovebgpreview": {
+            "serverRevisionCounter": 597,
+            "lastRetrievedFromServer": 597,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "ContentAsset__Rremovebgpreview": {
+            "serverRevisionCounter": 685,
+            "lastRetrievedFromServer": 685,
+            "memberType": "ContentAsset",
+            "isNameObsolete": false
+        },
+        "ApexTestSuite__RecommendedBadgeMix": {
+            "serverRevisionCounter": 212,
+            "lastRetrievedFromServer": 212,
+            "memberType": "ApexTestSuite",
+            "isNameObsolete": false
+        },
+        "ApexPage__CommunitiesLanding": {
+            "serverRevisionCounter": 361,
+            "lastRetrievedFromServer": 361,
+            "memberType": "ApexPage",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_partner_fund_request_crt": {
+            "serverRevisionCounter": 20,
+            "lastRetrievedFromServer": 20,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__MDF_Claim_Request_Crt": {
+            "serverRevisionCounter": 23,
+            "lastRetrievedFromServer": 23,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_partner_marketing_budget_crt": {
+            "serverRevisionCounter": 26,
+            "lastRetrievedFromServer": 26,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_unique_portal_crt": {
+            "serverRevisionCounter": 32,
+            "lastRetrievedFromServer": 32,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "ReportType__prm_total_portal_login_crt": {
+            "serverRevisionCounter": 35,
+            "lastRetrievedFromServer": 35,
+            "memberType": "ReportType",
+            "isNameObsolete": false
+        },
+        "StaticResource__SNA_Recommended_Badges1_sf_default_cdn_FXlVO": {
+            "serverRevisionCounter": 346,
+            "lastRetrievedFromServer": 346,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "StaticResource__SNA_Recommended_Badges_Enhanced1_sf_default_cdn_3Bq2x": {
+            "serverRevisionCounter": 347,
+            "lastRetrievedFromServer": 347,
+            "memberType": "StaticResource",
+            "isNameObsolete": false
+        },
+        "CspTrustedSite__GStatsDoubleClick": {
+            "serverRevisionCounter": 303,
+            "lastRetrievedFromServer": 303,
+            "memberType": "CspTrustedSite",
+            "isNameObsolete": false
+        },
+        "CspTrustedSite__GoogleAnalyltics": {
+            "serverRevisionCounter": 304,
+            "lastRetrievedFromServer": 304,
+            "memberType": "CspTrustedSite",
+            "isNameObsolete": false
+        },
+        "CspTrustedSite__GoogleTagManager": {
+            "serverRevisionCounter": 305,
+            "lastRetrievedFromServer": 305,
+            "memberType": "CspTrustedSite",
+            "isNameObsolete": false
+        },
+        "QuickAction__New_Recommended_Badge_Trail": {
+            "serverRevisionCounter": 589,
+            "lastRetrievedFromServer": 589,
+            "memberType": "QuickAction",
+            "isNameObsolete": false
+        },
+        "CompactLayout__Recommended_Badge_Mix__c.Recommended_Badge_Mix_Compact_Layout": {
+            "serverRevisionCounter": 202,
+            "lastRetrievedFromServer": 202,
+            "memberType": "CompactLayout",
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__trailheadEntityNewEditOverride": {
+            "serverRevisionCounter": 649,
+            "lastRetrievedFromServer": 649,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinitionBundle__newTrailheadEntityAction": {
+            "serverRevisionCounter": 585,
+            "lastRetrievedFromServer": 585,
+            "memberType": "AuraDefinitionBundle",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__trailheadEntityNewEditOverride/trailheadEntityNewEditOverride.cmp": {
+            "serverRevisionCounter": 651,
+            "lastRetrievedFromServer": 651,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__trailheadEntityNewEditOverride/trailheadEntityNewEditOverride.design": {
+            "serverRevisionCounter": 650,
+            "lastRetrievedFromServer": 650,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__newTrailheadEntityAction/newTrailheadEntityAction.cmp": {
+            "serverRevisionCounter": 586,
+            "lastRetrievedFromServer": 586,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "AuraDefinition__newTrailheadEntityAction/newTrailheadEntityAction.design": {
+            "serverRevisionCounter": 587,
+            "lastRetrievedFromServer": 587,
+            "memberType": "AuraDefinition",
+            "isNameObsolete": false
+        },
+        "DuplicateRule__Recommended_Badge_Mix__c.Recommended_Badge_Mix_Duplicate_Rule": {
+            "serverRevisionCounter": 656,
+            "lastRetrievedFromServer": 656,
+            "memberType": "DuplicateRule",
+            "isNameObsolete": false
+        },
+        "Network__Recommended Badges": {
+            "serverRevisionCounter": 659,
+            "lastRetrievedFromServer": 659,
+            "memberType": "Network",
+            "isNameObsolete": false
+        },
+        "Network__Recommended Badges (Enhanced)": {
+            "serverRevisionCounter": 662,
+            "lastRetrievedFromServer": 662,
+            "memberType": "Network",
+            "isNameObsolete": false
+        },
+        "CustomSite__Recommended_Badges": {
+            "serverRevisionCounter": 364,
+            "lastRetrievedFromServer": 364,
+            "memberType": "CustomSite",
+            "isNameObsolete": false
+        },
+        "CustomSite__Recommended_Badges_Enhanced": {
+            "serverRevisionCounter": 365,
+            "lastRetrievedFromServer": 365,
+            "memberType": "CustomSite",
+            "isNameObsolete": false
+        },
+        "DigitalExperienceConfig__Recommended_Badges_Enhanced1": {
+            "serverRevisionCounter": 657,
+            "lastRetrievedFromServer": 657,
+            "memberType": "DigitalExperienceConfig",
+            "isNameObsolete": false
+        },
+        "ExperienceBundle__Recommended_Badges1": {
+            "serverRevisionCounter": 661,
+            "lastRetrievedFromServer": 661,
+            "memberType": "ExperienceBundle",
+            "isNameObsolete": false
+        },
+        "ExperienceResource__Recommended_Badges1/brandingSets/buildYourOwnLWR.json": {
+            "serverRevisionCounter": 343,
+            "lastRetrievedFromServer": 343,
+            "memberType": "ExperienceResource",
+            "isNameObsolete": false
+        },
+        "FieldSet__Mix_Category__c.RecommendedBadgeMix": {
+            "serverRevisionCounter": 203,
+            "lastRetrievedFromServer": 203,
+            "memberType": "FieldSet",
+            "isNameObsolete": false
+        },
+        "FieldSet__Mix_Category__c.Triggers": {
+            "serverRevisionCounter": 204,
+            "lastRetrievedFromServer": 204,
+            "memberType": "FieldSet",
+            "isNameObsolete": false
+        },
+        "NavigationMenu__Recommended_Badges_Enhanced_Navigation": {
+            "serverRevisionCounter": 723,
+            "lastRetrievedFromServer": 723,
+            "memberType": "NavigationMenu",
+            "isNameObsolete": false
+        },
+        "BrandingSet__LEXTHEMINGRecommendedBadges": {
+            "serverRevisionCounter": 600,
+            "lastRetrievedFromServer": 600,
+            "memberType": "BrandingSet",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Recommended_Badge_Mix_Record_Page": {
+            "serverRevisionCounter": 497,
+            "lastRetrievedFromServer": 497,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Home_Page_Default": {
+            "serverRevisionCounter": 590,
+            "lastRetrievedFromServer": 590,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Mixer_Mobile_UtilityBar": {
+            "serverRevisionCounter": 591,
+            "lastRetrievedFromServer": 591,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "FlexiPage__Mixer_UtilityBar": {
+            "serverRevisionCounter": 592,
+            "lastRetrievedFromServer": 592,
+            "memberType": "FlexiPage",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Core_Permissions": {
+            "serverRevisionCounter": 213,
+            "lastRetrievedFromServer": 213,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Recommended_Badge_Mix_Permissions": {
+            "serverRevisionCounter": 214,
+            "lastRetrievedFromServer": 214,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Digital_Experiences_Permissions": {
+            "serverRevisionCounter": 301,
+            "lastRetrievedFromServer": 301,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Guest_User_Permissions": {
+            "serverRevisionCounter": 302,
+            "lastRetrievedFromServer": 302,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__Security_Center": {
+            "serverRevisionCounter": 598,
+            "lastRetrievedFromServer": 598,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "PermissionSet__User_Interface_Permissions": {
+            "serverRevisionCounter": 599,
+            "lastRetrievedFromServer": 599,
+            "memberType": "PermissionSet",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__columnHeader": {
+            "serverRevisionCounter": 145,
+            "lastRetrievedFromServer": 145,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__datatable": {
+            "serverRevisionCounter": 149,
+            "lastRetrievedFromServer": 149,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__dropdown": {
+            "serverRevisionCounter": 153,
+            "lastRetrievedFromServer": 153,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lookup": {
+            "serverRevisionCounter": 157,
+            "lastRetrievedFromServer": 157,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__lookupItem": {
+            "serverRevisionCounter": 162,
+            "lastRetrievedFromServer": 162,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__promptDialog": {
+            "serverRevisionCounter": 166,
+            "lastRetrievedFromServer": 166,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__sortUtility": {
+            "serverRevisionCounter": 177,
+            "lastRetrievedFromServer": 177,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__treegrid": {
+            "serverRevisionCounter": 185,
+            "lastRetrievedFromServer": 185,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__usageProgressBar": {
+            "serverRevisionCounter": 190,
+            "lastRetrievedFromServer": 190,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__trailheadEntityForm": {
+            "serverRevisionCounter": 644,
+            "lastRetrievedFromServer": 644,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__recommendedBadgeMixContainer": {
+            "serverRevisionCounter": 561,
+            "lastRetrievedFromServer": 561,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__rbNavigationMenu": {
+            "serverRevisionCounter": 803,
+            "lastRetrievedFromServer": 803,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__rbNavigationMenuItem": {
+            "serverRevisionCounter": 861,
+            "lastRetrievedFromServer": 861,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentBundle__singleRegionThemeLayout": {
+            "serverRevisionCounter": 357,
+            "lastRetrievedFromServer": 357,
+            "memberType": "LightningComponentBundle",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookup/lookup.js": {
+            "serverRevisionCounter": 161,
+            "lastRetrievedFromServer": 161,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookup/lookup.js-meta.xml": {
+            "serverRevisionCounter": 158,
+            "lastRetrievedFromServer": 158,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookup/lookup.css": {
+            "serverRevisionCounter": 159,
+            "lastRetrievedFromServer": 159,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookup/lookup.html": {
+            "serverRevisionCounter": 160,
+            "lastRetrievedFromServer": 160,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__datatable/datatable.html": {
+            "serverRevisionCounter": 150,
+            "lastRetrievedFromServer": 150,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__datatable/datatable.js": {
+            "serverRevisionCounter": 151,
+            "lastRetrievedFromServer": 151,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__datatable/datatable.js-meta.xml": {
+            "serverRevisionCounter": 152,
+            "lastRetrievedFromServer": 152,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__treegrid/treegrid.html": {
+            "serverRevisionCounter": 186,
+            "lastRetrievedFromServer": 186,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__treegrid/treegrid.css": {
+            "serverRevisionCounter": 187,
+            "lastRetrievedFromServer": 187,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__treegrid/treegrid.js": {
+            "serverRevisionCounter": 188,
+            "lastRetrievedFromServer": 188,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__treegrid/treegrid.js-meta.xml": {
+            "serverRevisionCounter": 189,
+            "lastRetrievedFromServer": 189,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookupItem/lookupItem.html": {
+            "serverRevisionCounter": 163,
+            "lastRetrievedFromServer": 163,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookupItem/lookupItem.js": {
+            "serverRevisionCounter": 164,
+            "lastRetrievedFromServer": 164,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__lookupItem/lookupItem.js-meta.xml": {
+            "serverRevisionCounter": 165,
+            "lastRetrievedFromServer": 165,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__columnHeader/columnHeader.html": {
+            "serverRevisionCounter": 146,
+            "lastRetrievedFromServer": 146,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__columnHeader/columnHeader.js-meta.xml": {
+            "serverRevisionCounter": 147,
+            "lastRetrievedFromServer": 147,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__columnHeader/columnHeader.js": {
+            "serverRevisionCounter": 148,
+            "lastRetrievedFromServer": 148,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__usageProgressBar/usageProgressBar.html": {
+            "serverRevisionCounter": 191,
+            "lastRetrievedFromServer": 191,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__usageProgressBar/usageProgressBar.js-meta.xml": {
+            "serverRevisionCounter": 192,
+            "lastRetrievedFromServer": 192,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__usageProgressBar/usageProgressBar.css": {
+            "serverRevisionCounter": 193,
+            "lastRetrievedFromServer": 193,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__usageProgressBar/usageProgressBar.js": {
+            "serverRevisionCounter": 194,
+            "lastRetrievedFromServer": 194,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__sortUtility/sortUtility.js-meta.xml": {
+            "serverRevisionCounter": 178,
+            "lastRetrievedFromServer": 178,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__sortUtility/sortUtility.js": {
+            "serverRevisionCounter": 179,
+            "lastRetrievedFromServer": 179,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__promptDialog/promptDialog.css": {
+            "serverRevisionCounter": 167,
+            "lastRetrievedFromServer": 167,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__promptDialog/promptDialog.html": {
+            "serverRevisionCounter": 168,
+            "lastRetrievedFromServer": 168,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__promptDialog/promptDialog.js": {
+            "serverRevisionCounter": 169,
+            "lastRetrievedFromServer": 169,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__promptDialog/promptDialog.js-meta.xml": {
+            "serverRevisionCounter": 170,
+            "lastRetrievedFromServer": 170,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dropdown/dropdown.html": {
+            "serverRevisionCounter": 154,
+            "lastRetrievedFromServer": 154,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dropdown/dropdown.js": {
+            "serverRevisionCounter": 155,
+            "lastRetrievedFromServer": 155,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__dropdown/dropdown.js-meta.xml": {
+            "serverRevisionCounter": 156,
+            "lastRetrievedFromServer": 156,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.js": {
+            "serverRevisionCounter": 646,
+            "lastRetrievedFromServer": 646,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.css": {
+            "serverRevisionCounter": 647,
+            "lastRetrievedFromServer": 647,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.js-meta.xml": {
+            "serverRevisionCounter": 648,
+            "lastRetrievedFromServer": 648,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.html": {
+            "serverRevisionCounter": 645,
+            "lastRetrievedFromServer": 645,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recommendedBadgeMixContainer/recommendedBadgeMixContainer.html": {
+            "serverRevisionCounter": 564,
+            "lastRetrievedFromServer": 564,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recommendedBadgeMixContainer/recommendedBadgeMixContainer.js": {
+            "serverRevisionCounter": 565,
+            "lastRetrievedFromServer": 565,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recommendedBadgeMixContainer/recommendedBadgeMixContainer.css": {
+            "serverRevisionCounter": 566,
+            "lastRetrievedFromServer": 566,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recommendedBadgeMixContainer/recommendedBadgeMixContainer.js-meta.xml": {
+            "serverRevisionCounter": 562,
+            "lastRetrievedFromServer": 562,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__recommendedBadgeMixContainer/recommendedBadgeMixContainer.svg": {
+            "serverRevisionCounter": 563,
+            "lastRetrievedFromServer": 563,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__singleRegionThemeLayout/singleRegionThemeLayout.html": {
+            "serverRevisionCounter": 358,
+            "lastRetrievedFromServer": 358,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__singleRegionThemeLayout/singleRegionThemeLayout.js-meta.xml": {
+            "serverRevisionCounter": 359,
+            "lastRetrievedFromServer": 359,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__singleRegionThemeLayout/singleRegionThemeLayout.js": {
+            "serverRevisionCounter": 360,
+            "lastRetrievedFromServer": 360,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.js": {
+            "serverRevisionCounter": 805,
+            "lastRetrievedFromServer": 805,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.svg": {
+            "serverRevisionCounter": 806,
+            "lastRetrievedFromServer": 806,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.html": {
+            "serverRevisionCounter": 807,
+            "lastRetrievedFromServer": 807,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.js-meta.xml": {
+            "serverRevisionCounter": 808,
+            "lastRetrievedFromServer": 808,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenuItem/rbNavigationMenuItem.js-meta.xml": {
+            "serverRevisionCounter": 862,
+            "lastRetrievedFromServer": 862,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenuItem/rbNavigationMenuItem.js": {
+            "serverRevisionCounter": 863,
+            "lastRetrievedFromServer": 863,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenuItem/rbNavigationMenuItem.html": {
+            "serverRevisionCounter": 864,
+            "lastRetrievedFromServer": 864,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningComponentResource__rbNavigationMenu/rbNavigationMenu.css": {
+            "serverRevisionCounter": 804,
+            "lastRetrievedFromServer": 804,
+            "memberType": "LightningComponentResource",
+            "isNameObsolete": false
+        },
+        "LightningExperienceTheme__RecommendedBadges": {
+            "serverRevisionCounter": 601,
+            "lastRetrievedFromServer": 601,
+            "memberType": "LightningExperienceTheme",
+            "isNameObsolete": false
+        },
+        "DigitalExperienceBundle__site/Recommended_Badges_Enhanced1": {
+            "serverRevisionCounter": 345,
+            "lastRetrievedFromServer": 345,
+            "memberType": "DigitalExperienceBundle",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__languageSettings/languages": {
+            "serverRevisionCounter": 368,
+            "lastRetrievedFromServer": 368,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__mobilePublisherConfig/MCCCRTMJAC6VDVFAJZNSLYIOZVRA": {
+            "serverRevisionCounter": 369,
+            "lastRetrievedFromServer": 369,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__trustedSites/trustedSites": {
+            "serverRevisionCounter": 384,
+            "lastRetrievedFromServer": 384,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__appPage/mainAppPage": {
+            "serverRevisionCounter": 703,
+            "lastRetrievedFromServer": 703,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__brandingSet/Build_Your_Own_LWR": {
+            "serverRevisionCounter": 500,
+            "lastRetrievedFromServer": 500,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Check_Password": {
+            "serverRevisionCounter": 370,
+            "lastRetrievedFromServer": 370,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Error": {
+            "serverRevisionCounter": 371,
+            "lastRetrievedFromServer": 371,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Forgot_Password": {
+            "serverRevisionCounter": 372,
+            "lastRetrievedFromServer": 372,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Home": {
+            "serverRevisionCounter": 373,
+            "lastRetrievedFromServer": 373,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Login": {
+            "serverRevisionCounter": 374,
+            "lastRetrievedFromServer": 374,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/News_Detail__c": {
+            "serverRevisionCounter": 375,
+            "lastRetrievedFromServer": 375,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Register": {
+            "serverRevisionCounter": 376,
+            "lastRetrievedFromServer": 376,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Service_Not_Available": {
+            "serverRevisionCounter": 377,
+            "lastRetrievedFromServer": 377,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__route/Too_Many_Requests": {
+            "serverRevisionCounter": 378,
+            "lastRetrievedFromServer": 378,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__site/Recommended_Badges_Enhanced1": {
+            "serverRevisionCounter": 379,
+            "lastRetrievedFromServer": 379,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__theme/Build_Your_Own_LWR": {
+            "serverRevisionCounter": 380,
+            "lastRetrievedFromServer": 380,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__themeLayout/Single_Region": {
+            "serverRevisionCounter": 501,
+            "lastRetrievedFromServer": 501,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__themeLayout/scopedHeaderAndFooter": {
+            "serverRevisionCounter": 382,
+            "lastRetrievedFromServer": 382,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__themeLayout/snaThemeLayout": {
+            "serverRevisionCounter": 383,
+            "lastRetrievedFromServer": 383,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/checkPasswordResetEmail": {
+            "serverRevisionCounter": 385,
+            "lastRetrievedFromServer": 385,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/error": {
+            "serverRevisionCounter": 386,
+            "lastRetrievedFromServer": 386,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/forgotPassword": {
+            "serverRevisionCounter": 387,
+            "lastRetrievedFromServer": 387,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/home": {
+            "serverRevisionCounter": 748,
+            "lastRetrievedFromServer": 748,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/login": {
+            "serverRevisionCounter": 389,
+            "lastRetrievedFromServer": 389,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/newsDetail": {
+            "serverRevisionCounter": 390,
+            "lastRetrievedFromServer": 390,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/register": {
+            "serverRevisionCounter": 391,
+            "lastRetrievedFromServer": 391,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/serviceNotAvailable": {
+            "serverRevisionCounter": 392,
+            "lastRetrievedFromServer": 392,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "DigitalExperience__site/Recommended_Badges_Enhanced1.sfdc_cms__view/tooManyRequests": {
+            "serverRevisionCounter": 393,
+            "lastRetrievedFromServer": 393,
+            "memberType": "DigitalExperience",
+            "isNameObsolete": false
+        },
+        "Audience__Default": {
+            "serverRevisionCounter": 274,
+            "lastRetrievedFromServer": 274,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "Audience__Default1": {
+            "serverRevisionCounter": 276,
+            "lastRetrievedFromServer": 276,
+            "memberType": "Audience",
+            "isNameObsolete": false
+        },
+        "DataWeaveResource__trailheadEntityFormMapping": {
+            "serverRevisionCounter": 211,
+            "lastRetrievedFromServer": 211,
+            "memberType": "DataWeaveResource",
+            "isNameObsolete": false
+        },
+        "DataWeaveResource__recommendedBadgeMixContainerMapping": {
+            "serverRevisionCounter": 100,
+            "lastRetrievedFromServer": 100,
+            "memberType": "DataWeaveResource",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Sortable_Field_Value.Advanced": {
+            "serverRevisionCounter": 139,
+            "lastRetrievedFromServer": 139,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Sortable_Field_Value.Beginner": {
+            "serverRevisionCounter": 140,
+            "lastRetrievedFromServer": 140,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Sortable_Field_Value.Intermediate": {
+            "serverRevisionCounter": 141,
+            "lastRetrievedFromServer": 141,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Sortable_Field.Level": {
+            "serverRevisionCounter": 137,
+            "lastRetrievedFromServer": 137,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Sortable_Field.Type": {
+            "serverRevisionCounter": 138,
+            "lastRetrievedFromServer": 138,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomMetadata__Sortable_LWC.recommendedBadgeMixContainer": {
+            "serverRevisionCounter": 142,
+            "lastRetrievedFromServer": 142,
+            "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        }
+    }
+}

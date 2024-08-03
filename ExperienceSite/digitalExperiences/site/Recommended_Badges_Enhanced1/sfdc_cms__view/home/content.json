@@ -8,11 +8,13 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "dxpStyle" : { },
             "sectionConfig" : "{\"UUID\":\"ea4ad8da-e604-4869-84d2-d231db5b8a4b\",\"columns\":[{\"UUID\":\"19f94ed6-1b7e-46d5-a789-56b7bd6a8514\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
             "children" : [ {
               "attributes" : {
+                "dxpStyle" : { },
                 "navigationLinkSetDeveloperName" : "Recommended_Badges_Enhanced_Navigation"
               },
               "definition" : "c:rbNavigationMenu",
@@ -21,7 +23,12 @@
             }, {
               "attributes" : {
                 "dxpStyle" : {
-                  "margin" : {"top":"","right":"","bottom":"","left":""}
+                  "margin" : {
+                    "bottom" : "",
+                    "left" : "",
+                    "right" : "",
+                    "top" : ""
+                  }
                 }
               },
               "definition" : "c:recommendedBadgeMixContainer",
@@ -46,6 +53,7 @@
           "attributes" : {
             "customHeadTags" : "",
             "description" : "",
+            "dxpStyle" : { },
             "pageTitle" : "Recommended Badges",
             "recordId" : "{!recordId}"
           },
@@ -62,6 +70,7 @@
       "id" : "94519ce2-c98a-4fc5-a35b-ea8ee2b14cd6",
       "type" : "component"
     },
+    "dataProviders" : [ ],
     "themeLayoutType" : "jVnzAcx1WGDh7dJGFTKJbCK1uMDZdW",
     "viewType" : "home"
   }

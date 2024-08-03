@@ -4,6 +4,7 @@
     <allowMembersToFlag>false</allowMembersToFlag>
     <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
     <communityRoles/>
+    <description>Public facing Experience site with Recommended Badge Mixes and other resources.</description>
     <disableReputationRecordConversations>true</disableReputationRecordConversations>
     <emailSenderAddress>blearn5241@gmail.com</emailSenderAddress>
     <emailSenderName>Recommended Badges</emailSenderName>
@@ -45,6 +46,7 @@
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
     <site>Recommended_Badges</site>
+    <siteArchiveStatus>NotArchived</siteArchiveStatus>
     <status>Live</status>
     <tabs>
         <defaultTab>home</defaultTab>

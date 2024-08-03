@@ -5,5 +5,7 @@
   @last modified by  : Ben Learn
 -->
 <template>
-    <a href={href} onclick={handleClick} target="_blank">{navigationMenuItem.label}</a>
+	<a href={href} onclick={handleClick} target={target}>
+		<img src={menuItemImage} style="max-height:25px;"> {navigationMenuItem.label}
+  	</a>
 </template>

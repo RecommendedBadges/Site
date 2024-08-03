@@ -8,11 +8,13 @@
           "attributes" : {
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "dxpStyle" : { },
             "sectionConfig" : "{\"UUID\":\"f92ea457-887d-4de0-aacc-28e612dcccd8\",\"columns\":[{\"UUID\":\"1fb849d2-9731-400c-bbd7-15d91347a3f8\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
           },
           "children" : [ {
             "children" : [ {
               "attributes" : {
+                "dxpStyle" : { },
                 "imageInfo" : "",
                 "logoWidth" : 250
               },
@@ -21,6 +23,7 @@
               "type" : "component"
             }, {
               "attributes" : {
+                "dxpStyle" : { },
                 "forgotPasswordLabel" : "Forgot your password?",
                 "forgotPasswordUrl" : "/ForgotPassword",
                 "loginButtonLabel" : "Log In",
@@ -35,6 +38,7 @@
               "type" : "component"
             }, {
               "attributes" : {
+                "dxpStyle" : { },
                 "employeeLoginLinkLabel" : "Are you an employee? Log in"
               },
               "definition" : "community_login:employeeLoginLink",
@@ -59,6 +63,7 @@
           "attributes" : {
             "customHeadTags" : "",
             "description" : "",
+            "dxpStyle" : { },
             "pageTitle" : "Login",
             "recordId" : "{!recordId}"
           },
@@ -75,6 +80,7 @@
       "id" : "514f4fc9-75c9-4457-8ec6-6ba47af24b6d",
       "type" : "component"
     },
+    "dataProviders" : [ ],
     "themeLayoutType" : "Inner",
     "viewType" : "login-main"
   }

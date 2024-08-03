@@ -10,7 +10,7 @@
             <ul class="slds-list_horizontal slds-has-dividers_right slds-has-block-links_space">
                 <template if:true={isLoaded}>
                     <template for:each={navigationMenuItems} for:item="navigationMenuItem">
-                        <li key={navigationMenuItem.id} class="slds-item">
+                        <li key={navigationMenuItem.id} class="slds-item customBullet">
                             <c-rb-navigation-menu-item navigation-menu-item={navigationMenuItem}></c-rb-navigation-menu-item>
                         </li>
                     </template>

@@ -4,6 +4,7 @@
     <allowMembersToFlag>false</allowMembersToFlag>
     <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
     <communityRoles/>
+    <description>Public facing Experience site with Recommended Badge Mixes and other resources.</description>
     <disableReputationRecordConversations>false</disableReputationRecordConversations>
     <emailSenderAddress>blearn5241@gmail.com</emailSenderAddress>
     <emailSenderName>Recommended Badges (Enhanced)</emailSenderName>
@@ -43,8 +44,9 @@
     </networkPageOverrides>
     <picassoSite>Recommended_Badges_Enhanced1</picassoSite>
     <selfRegistration>false</selfRegistration>
-    <sendWelcomeEmail>true</sendWelcomeEmail>
+    <sendWelcomeEmail>false</sendWelcomeEmail>
     <site>Recommended_Badges_Enhanced</site>
+    <siteArchiveStatus>NotArchived</siteArchiveStatus>
     <status>UnderConstruction</status>
     <tabs>
         <defaultTab>home</defaultTab>

@@ -51,7 +51,42 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.Default_Badge_Mix__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
         <field>Recommended_Badge_Mix__c.ExamMix__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.FreeSFBenPracticeExam__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.Last_Updated_Date__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.OfficialExamGuide__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.OfficialExamTrailmix__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.OfficialPracticeExam__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Recommended_Badge_Mix__c.Private_Mix__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -183,6 +218,14 @@
     </recordTypeVisibilities>
     <recordTypeVisibilities>
         <recordType>Mix_Category__c.Standard</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <recordType>Recommended_Badge_Mix__c.Exam</recordType>
+        <visible>true</visible>
+    </recordTypeVisibilities>
+    <recordTypeVisibilities>
+        <recordType>Recommended_Badge_Mix__c.Standard</recordType>
         <visible>true</visible>
     </recordTypeVisibilities>
     <tabSettings>

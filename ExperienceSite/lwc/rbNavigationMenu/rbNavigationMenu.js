@@ -12,8 +12,8 @@ export default class RbNavigationMenu extends LightningElement {
     @wire(getNavigationMenuItems, { navigationLinkSetDeveloperName: '$navigationLinkSetDeveloperName' })
     wiredNavigationMenuItems({ error, data }) {
         if(data) {
-            this.navigationMenuItems = data.map((item, index) => {
-                return {
+            /* eslint-disable sort-keys */
+            this.navigationMenuItems = data.map((item, index) => ({
                     target: item.actionValue,
                     id: index,
                     label: item.label,
@@ -21,8 +21,7 @@ export default class RbNavigationMenu extends LightningElement {
                     subMenu: item.subMenu,
                     imageUrl: item.imageUrl,
                     windowName: item.target
-                }
-            });
+            }));
             this.isLoaded = true;
         } else if(error) {
             this.error = error;

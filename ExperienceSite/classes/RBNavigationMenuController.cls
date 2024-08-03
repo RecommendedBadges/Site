@@ -18,11 +18,10 @@ public with sharing class RBNavigationMenuController {
     };
 
     /**
-    * @description Returns navigation menu items for the current Experience site and provided Navigation Link Set. Used for navigation menus in LWR sites.
-    * @author Ben Learn | 03-04-2023 
-    * @param String navigationLinkSetDeveloperName
-    * @return List<ConnectApi.NavigationMenuItem> 
-    **/
+     * Returns navigation menu items for the current Experience site and provided Navigation Link Set. Used for navigation menus in LWR sites.
+     * @param navigationLinkSetDeveloperName 
+     * @return  `List<ConnectApi.NavigationMenuItem>`
+     */
     @AuraEnabled(cacheable=true)
     public static List<ConnectApi.NavigationMenuItem> getNavigationMenuItems(String navigationLinkSetDeveloperName) {
         ConnectApi.Community experienceSite = ConnectApi.Communities.getCommunity(Network.getNetworkId());

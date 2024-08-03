@@ -1,7 +1,3 @@
-# List files or directories below to ignore them when running force:source:push, force:source:pull, and force:source:status
-# More information: https://developer.salesforce.com/docs/atlas.en-us.sfdx_dev.meta/sfdx_dev/sfdx_dev_exclude_source.htm
-#
-
 package.xml
 
 # LWC configuration files
@@ -11,6 +7,63 @@ package.xml
 # LWC Jest
 **/__tests__/**
 
+**AppSwitcher**
+**B2B Reordering Portal Buyer Profile**
+**dashboard-meta.xml
+**dashboardFolder-meta.xml
 ExperienceSite/navigationMenus/SFDC_Default_Navigation_RecommendedBadges.navigationMenu-meta.xml
 ExperienceSite/navigationMenus/SFDC_Default_Navigation_RecommendedBadgesEnhanced.navigationMenu-meta.xml
 ExperienceSite/digitalExperiences/site/Recommended_Badges_Enhanced1/sfdc_cms__googleAnalyticsSettings/**
+**report-meta.xml
+**reportFolder-meta.xml
+**reportType-meta.xml
+
+# Recommended Badges
+**Admin.profile**
+**Core_Permissions**
+**duplicateRule-meta.xml
+**field-meta.xml
+**fieldSet-meta.xml
+**Home_Page_Default**
+**layout-meta.xml
+**LightningSalesConsole_UtilityBar**
+columnHeader**
+datatable**
+dropdown**
+lookup**
+lookupItem**
+promptDialog**
+sortUtility**
+trailheadEntityForm**      
+treegrid**
+usageProgressBar**
+**Mapping.dwl**
+**md-meta.xml
+**Recommended_Badge_Mix_Permissions**
+**Recommended_Badge_Mix_Record_Page**
+**RecommendedBadgeMix**
+**recommendedBadgeMixContainer**
+**RecommendedBadgeMixController**
+**RecommendedBadgeMixControllerTests**
+**recordType-meta.xml
+**standard-home**
+**trailheadEntityNewEditOverride**
+**Mix_Category__c**
+**RecommendedArticle__c**
+**Recommended_Badge_Mix__c**
+**Recommended_Badge__c**
+**Recommended_Trail__c**
+**Mixer**
+**Mixer_Mobile**
+**mixerremovebgpreview**
+**New_Recommended_Badge_Trail**
+**newTrailheadEntityAction**
+**Security_Center**
+**User_Interface_Permissions**
+**LEXTHEMINGRecommendedBadges**
+**Recommended Badges (Enhanced)**
+**lightningExperienceTheme**
+                                                                                                                                                                           
+**/tsconfig.json
+
+**/*.ts
