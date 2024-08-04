@@ -26,7 +26,34 @@ ExperienceSite/digitalExperiences/site/Recommended_Badges_Enhanced1/sfdc_cms__go
 **fieldSet-meta.xml
 **Home_Page_Default**
 **layout-meta.xml
+**LEXTHEMINGRecommendedBadges**
+**lightningExperienceTheme**
 **LightningSalesConsole_UtilityBar**
+**Mapping.dwl**
+**md-meta.xml
+**Mix_Category__c**
+**Mixer_Mobile**
+**Mixer**
+**mixerremovebgpreview**
+**New_Recommended_Badge_Trail**
+**newTrailheadEntityAction**
+**Recommended Badges (Enhanced)**
+**Recommended_Badge__c**
+**Recommended_Badge_Mix__c**
+**Recommended_Badge_Mix_Permissions**
+**Recommended_Badge_Mix_Record_Page**
+**Recommended_Trail__c**
+**RecommendedArticle__c**
+**RecommendedArticle_Record_Page**
+**RecommendedBadgeMix**
+**recommendedBadgeMixContainer**
+**RecommendedBadgeMixController**
+**RecommendedBadgeMixControllerTests**
+**recordType-meta.xml
+**Security_Center**
+**standard-home**
+**trailheadEntityNewEditOverride**
+**User_Interface_Permissions**
 columnHeader**
 datatable**
 dropdown**
@@ -37,32 +64,6 @@ sortUtility**
 trailheadEntityForm**      
 treegrid**
 usageProgressBar**
-**Mapping.dwl**
-**md-meta.xml
-**Recommended_Badge_Mix_Permissions**
-**Recommended_Badge_Mix_Record_Page**
-**RecommendedBadgeMix**
-**recommendedBadgeMixContainer**
-**RecommendedBadgeMixController**
-**RecommendedBadgeMixControllerTests**
-**recordType-meta.xml
-**standard-home**
-**trailheadEntityNewEditOverride**
-**Mix_Category__c**
-**RecommendedArticle__c**
-**Recommended_Badge_Mix__c**
-**Recommended_Badge__c**
-**Recommended_Trail__c**
-**Mixer**
-**Mixer_Mobile**
-**mixerremovebgpreview**
-**New_Recommended_Badge_Trail**
-**newTrailheadEntityAction**
-**Security_Center**
-**User_Interface_Permissions**
-**LEXTHEMINGRecommendedBadges**
-**Recommended Badges (Enhanced)**
-**lightningExperienceTheme**
                                                                                                                                                                            
 **/tsconfig.json
 

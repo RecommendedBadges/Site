@@ -1,8 +1,8 @@
 {
-    "serverMaxRevisionCounter": 864,
+    "serverMaxRevisionCounter": 1447,
     "sourceMembers": {
         "ListView__RecommendedArticle__c.All": {
-            "serverRevisionCounter": 584,
+            "serverRevisionCounter": 1400,
             "lastRetrievedFromServer": 584,
             "memberType": "ListView",
             "isNameObsolete": false
@@ -74,7 +74,7 @@
             "isNameObsolete": false
         },
         "Profile__Admin": {
-            "serverRevisionCounter": 851,
+            "serverRevisionCounter": 1430,
             "lastRetrievedFromServer": 643,
             "memberType": "Profile",
             "isNameObsolete": false
@@ -104,13 +104,13 @@
             "isNameObsolete": false
         },
         "Layout__DefaultObjectSelector__mdt-SObjectSelector Layout": {
-            "serverRevisionCounter": 652,
+            "serverRevisionCounter": 1440,
             "lastRetrievedFromServer": 652,
             "memberType": "Layout",
             "isNameObsolete": false
         },
         "Layout__DefaultServiceImplementation__mdt-Service Layout": {
-            "serverRevisionCounter": 653,
+            "serverRevisionCounter": 1441,
             "lastRetrievedFromServer": 653,
             "memberType": "Layout",
             "isNameObsolete": false
@@ -122,19 +122,19 @@
             "isNameObsolete": false
         },
         "Layout__TrailTrackerProviderFieldMapping__mdt-Trail Tracker Provider Mapping Layout": {
-            "serverRevisionCounter": 654,
+            "serverRevisionCounter": 1442,
             "lastRetrievedFromServer": 654,
             "memberType": "Layout",
             "isNameObsolete": false
         },
         "Layout__TrailTrackerProviderObjectMapping__mdt-Trail Tracker Provider Object Mapping Layout": {
-            "serverRevisionCounter": 655,
+            "serverRevisionCounter": 1443,
             "lastRetrievedFromServer": 655,
             "memberType": "Layout",
             "isNameObsolete": false
         },
         "Layout__RecommendedArticle__c-Recommended Article Layout": {
-            "serverRevisionCounter": 575,
+            "serverRevisionCounter": 1212,
             "lastRetrievedFromServer": 575,
             "memberType": "Layout",
             "isNameObsolete": false
@@ -260,7 +260,7 @@
             "isNameObsolete": false
         },
         "CustomObject__RecommendedArticle__c": {
-            "serverRevisionCounter": 580,
+            "serverRevisionCounter": 955,
             "lastRetrievedFromServer": 580,
             "memberType": "CustomObject",
             "isNameObsolete": false
@@ -452,43 +452,43 @@
             "isNameObsolete": false
         },
         "AuraDefinitionBundle__trailheadEntityNewEditOverride": {
-            "serverRevisionCounter": 649,
+            "serverRevisionCounter": 1437,
             "lastRetrievedFromServer": 649,
             "memberType": "AuraDefinitionBundle",
             "isNameObsolete": false
         },
         "AuraDefinitionBundle__newTrailheadEntityAction": {
-            "serverRevisionCounter": 585,
+            "serverRevisionCounter": 868,
             "lastRetrievedFromServer": 585,
             "memberType": "AuraDefinitionBundle",
             "isNameObsolete": false
         },
         "AuraDefinition__trailheadEntityNewEditOverride/trailheadEntityNewEditOverride.cmp": {
-            "serverRevisionCounter": 651,
+            "serverRevisionCounter": 1439,
             "lastRetrievedFromServer": 651,
             "memberType": "AuraDefinition",
             "isNameObsolete": false
         },
         "AuraDefinition__trailheadEntityNewEditOverride/trailheadEntityNewEditOverride.design": {
-            "serverRevisionCounter": 650,
+            "serverRevisionCounter": 1438,
             "lastRetrievedFromServer": 650,
             "memberType": "AuraDefinition",
             "isNameObsolete": false
         },
         "AuraDefinition__newTrailheadEntityAction/newTrailheadEntityAction.cmp": {
-            "serverRevisionCounter": 586,
+            "serverRevisionCounter": 869,
             "lastRetrievedFromServer": 586,
             "memberType": "AuraDefinition",
             "isNameObsolete": false
         },
         "AuraDefinition__newTrailheadEntityAction/newTrailheadEntityAction.design": {
-            "serverRevisionCounter": 587,
+            "serverRevisionCounter": 870,
             "lastRetrievedFromServer": 587,
             "memberType": "AuraDefinition",
             "isNameObsolete": false
         },
         "DuplicateRule__Recommended_Badge_Mix__c.Recommended_Badge_Mix_Duplicate_Rule": {
-            "serverRevisionCounter": 656,
+            "serverRevisionCounter": 1444,
             "lastRetrievedFromServer": 656,
             "memberType": "DuplicateRule",
             "isNameObsolete": false
@@ -584,7 +584,7 @@
             "isNameObsolete": false
         },
         "PermissionSet__Core_Permissions": {
-            "serverRevisionCounter": 213,
+            "serverRevisionCounter": 1447,
             "lastRetrievedFromServer": 213,
             "memberType": "PermissionSet",
             "isNameObsolete": false
@@ -602,8 +602,8 @@
             "isNameObsolete": false
         },
         "PermissionSet__Guest_User_Permissions": {
-            "serverRevisionCounter": 302,
-            "lastRetrievedFromServer": 302,
+            "serverRevisionCounter": 1446,
+            "lastRetrievedFromServer": 1446,
             "memberType": "PermissionSet",
             "isNameObsolete": false
         },
@@ -674,7 +674,7 @@
             "isNameObsolete": false
         },
         "LightningComponentBundle__trailheadEntityForm": {
-            "serverRevisionCounter": 644,
+            "serverRevisionCounter": 1432,
             "lastRetrievedFromServer": 644,
             "memberType": "LightningComponentBundle",
             "isNameObsolete": false
@@ -884,25 +884,25 @@
             "isNameObsolete": false
         },
         "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.js": {
-            "serverRevisionCounter": 646,
+            "serverRevisionCounter": 1434,
             "lastRetrievedFromServer": 646,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.css": {
-            "serverRevisionCounter": 647,
+            "serverRevisionCounter": 1435,
             "lastRetrievedFromServer": 647,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.js-meta.xml": {
-            "serverRevisionCounter": 648,
+            "serverRevisionCounter": 1436,
             "lastRetrievedFromServer": 648,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
         },
         "LightningComponentResource__trailheadEntityForm/trailheadEntityForm.html": {
-            "serverRevisionCounter": 645,
+            "serverRevisionCounter": 1433,
             "lastRetrievedFromServer": 645,
             "memberType": "LightningComponentResource",
             "isNameObsolete": false
@@ -1241,6 +1241,60 @@
             "serverRevisionCounter": 142,
             "lastRetrievedFromServer": 142,
             "memberType": "CustomMetadata",
+            "isNameObsolete": false
+        },
+        "CustomField__RecommendedArticle__c.test__c": {
+            "serverRevisionCounter": 882,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": true
+        },
+        "CustomField__RecommendedArticle__c.ArticleHyperlink__c": {
+            "serverRevisionCounter": 1397,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__RecommendedArticle__c.Title__c": {
+            "serverRevisionCounter": 872,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__RecommendedArticle__c.URL__c": {
+            "serverRevisionCounter": 874,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "CustomField__RecommendedArticle__c.Site__c": {
+            "serverRevisionCounter": 1431,
+            "lastRetrievedFromServer": null,
+            "memberType": "CustomField",
+            "isNameObsolete": false
+        },
+        "DuplicateRule__RecommendedArticle__c.Recommended_Article_Duplicate_Rule": {
+            "serverRevisionCounter": 881,
+            "lastRetrievedFromServer": null,
+            "memberType": "DuplicateRule",
+            "isNameObsolete": false
+        },
+        "TopicsForObjects__RecommendedArticle__c": {
+            "serverRevisionCounter": 1077,
+            "lastRetrievedFromServer": null,
+            "memberType": "TopicsForObjects",
+            "isNameObsolete": false
+        },
+        "MatchingRule__RecommendedArticle__c.Recommended_Article_Matching_Rule": {
+            "serverRevisionCounter": 879,
+            "lastRetrievedFromServer": null,
+            "memberType": "MatchingRule",
+            "isNameObsolete": false
+        },
+        "FlexiPage__RecommendedArticle_Record_Page": {
+            "serverRevisionCounter": 1384,
+            "lastRetrievedFromServer": null,
+            "memberType": "FlexiPage",
             "isNameObsolete": false
         }
     }
