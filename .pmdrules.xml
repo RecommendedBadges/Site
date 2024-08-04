@@ -9,6 +9,7 @@
         Custom rules.
     </description>
 
+    <exclude-pattern>.*/.sfdx/.*</exclude-pattern>
     <exclude-pattern>.*/.SFBase/.*</exclude-pattern>
 
     <rule ref="category/apex/documentation.xml/ApexDoc">
