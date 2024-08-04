@@ -14,32 +14,11 @@
           "children" : [ {
             "children" : [ {
               "attributes" : {
+                "dxpStyle" : { },
                 "navigationLinkSetDeveloperName" : "Recommended_Badges_Enhanced_Navigation"
               },
               "definition" : "c:rbNavigationMenu",
               "id" : "8f638edd-2787-4cce-a721-93e20f356bbb",
-              "type" : "component"
-            }, {
-              "attributes" : {
-                "bannerBackgroundColor" : "",
-                "bannerPosition" : "top",
-                "bannerSizePercent" : 15,
-                "borderRadius" : 50,
-                "boxShadow" : true,
-                "haveBanner" : false,
-                "iconBackgroundColor" : "rgb(255,255,255)",
-                "iconSize" : "medium",
-                "noImageColor" : "rgb(116,116,116)",
-                "overlay" : "rgba(0,0,0,0.01)",
-                "templateType" : "icon",
-                "tileMenuEditor" : "Recommended_Badges_Enhanced_Navigation",
-                "titleColor" : "",
-                "titleFontSize" : "large",
-                "titleHorizontalAlign" : "center"
-              },
-              "customCssClasses" : "tempHeight",
-              "definition" : "community_navigation:tileMenu",
-              "id" : "b8edb209-6d9a-49a1-bd3b-e5592539e53b",
               "type" : "component"
             }, {
               "attributes" : {
