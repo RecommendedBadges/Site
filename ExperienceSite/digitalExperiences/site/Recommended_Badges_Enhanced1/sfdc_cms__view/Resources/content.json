@@ -9,6 +9,7 @@
             "backgroundImageConfig" : "",
             "backgroundImageOverlay" : "rgba(0,0,0,0)",
             "componentSpacerSize" : "",
+            "dxpStyle" : { },
             "layoutDirectionDesktop" : "row",
             "layoutDirectionMobile" : "column",
             "layoutDirectionTablet" : "column",
@@ -21,13 +22,16 @@
           "children" : [ {
             "children" : [ {
               "attributes" : {
+                "dxpStyle" : { },
                 "navigationLinkSetDeveloperName" : "Recommended_Badges_Enhanced_Navigation"
               },
               "definition" : "c:rbNavigationMenu",
               "id" : "d909d17d-9d96-4334-ab6d-b816709db017",
               "type" : "component"
             }, {
-              "attributes" : { },
+              "attributes" : {
+                "dxpStyle" : { }
+              },
               "definition" : "c:recommendedArticlesContainer",
               "id" : "1133980c-8013-4b44-ac7c-146674791b30",
               "type" : "component"
@@ -50,6 +54,7 @@
           "attributes" : {
             "customHeadTags" : "",
             "description" : "",
+            "dxpStyle" : { },
             "pageTitle" : "Resources",
             "recordId" : "{!recordId}"
           },

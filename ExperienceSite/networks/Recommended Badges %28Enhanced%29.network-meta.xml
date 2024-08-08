@@ -15,7 +15,7 @@
     <enableGuestChatter>true</enableGuestChatter>
     <enableGuestFileAccess>true</enableGuestFileAccess>
     <enableGuestMemberVisibility>false</enableGuestMemberVisibility>
-    <enableImageOptimizationCDN>true</enableImageOptimizationCDN>
+    <enableImageOptimizationCDN>false</enableImageOptimizationCDN>
     <enableInvitation>false</enableInvitation>
     <enableKnowledgeable>false</enableKnowledgeable>
     <enableMemberVisibility>false</enableMemberVisibility>
@@ -46,6 +46,7 @@
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>false</sendWelcomeEmail>
     <site>Recommended_Badges_Enhanced</site>
+    <siteArchiveStatus>NotArchived</siteArchiveStatus>
     <status>UnderConstruction</status>
     <tabs>
         <defaultTab>home</defaultTab>
