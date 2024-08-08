@@ -1,0 +1,73 @@
+{
+  "type" : "sfdc_cms__view",
+  "title" : "Resources",
+  "contentBody" : {
+    "component" : {
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "componentSpacerSize" : "",
+            "layoutDirectionDesktop" : "row",
+            "layoutDirectionMobile" : "column",
+            "layoutDirectionTablet" : "column",
+            "maxContentWidth" : "",
+            "sectionColumnGutterWidth" : "",
+            "sectionConfig" : "{\"UUID\":\"cbf7b1c7-0c65-4498-933e-54d1f456bc1e\",\"columns\":[{\"UUID\":\"313c054d-64d6-44b6-95a7-c04487a34c4e\",\"columnName\":\"Column 1\",\"columnKey\":\"col1\",\"columnWidth\":\"12\",\"seedComponents\":[]}]}",
+            "sectionMinHeight" : "",
+            "sectionVerticalAlign" : "flex-start"
+          },
+          "children" : [ {
+            "children" : [ {
+              "attributes" : {
+                "navigationLinkSetDeveloperName" : "Recommended_Badges_Enhanced_Navigation"
+              },
+              "definition" : "c:rbNavigationMenu",
+              "id" : "d909d17d-9d96-4334-ab6d-b816709db017",
+              "type" : "component"
+            }, {
+              "attributes" : { },
+              "definition" : "c:recommendedArticlesContainer",
+              "id" : "1133980c-8013-4b44-ac7c-146674791b30",
+              "type" : "component"
+            } ],
+            "id" : "313c054d-64d6-44b6-95a7-c04487a34c4e",
+            "name" : "col1",
+            "title" : "Column 1",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "cbf7b1c7-0c65-4498-933e-54d1f456bc1e",
+          "type" : "component"
+        } ],
+        "id" : "c9c49fdd-3349-4a0c-a825-f0dd2a52b807",
+        "name" : "content",
+        "title" : "Content",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "customHeadTags" : "",
+            "description" : "",
+            "pageTitle" : "Resources",
+            "recordId" : "{!recordId}"
+          },
+          "definition" : "community_builder:seoAssistant",
+          "id" : "4b8d1152-05ed-4d1b-9b0a-03f6b6f917e3",
+          "type" : "component"
+        } ],
+        "id" : "eeda12c5-d57f-4181-a616-126e8e837036",
+        "name" : "sfdcHiddenRegion",
+        "title" : "sfdcHiddenRegion",
+        "type" : "region"
+      } ],
+      "definition" : "community_layout:sldsFlexibleLayout",
+      "id" : "1a410e34-6d0b-4e38-8322-9a35cbc4d532",
+      "type" : "component"
+    },
+    "dataProviders" : [ ],
+    "themeLayoutType" : "jVnzAcx1WGDh7dJGFTKJbCK1uMDZdW",
+    "viewType" : "custom-resources"
+  }
+}
