@@ -14,8 +14,8 @@ package.xml
 ExperienceSite/navigationMenus/SFDC_Default_Navigation_RecommendedBadges.navigationMenu-meta.xml
 ExperienceSite/navigationMenus/SFDC_Default_Navigation_RecommendedBadgesEnhanced.navigationMenu-meta.xml
 ExperienceSite/digitalExperiences/site/Recommended_Badges_Enhanced1/sfdc_cms__googleAnalyticsSettings/**
-#**report-meta.xml
-#**reportFolder-meta.xml
+**report-meta.xml
+**reportFolder-meta.xml
 **reportType-meta.xml
 
 # Recommended Badges

@@ -10,4 +10,11 @@
         <target>ShowMoreTopics</target>
         <type>NavigationalTopic</type>
     </navigationMenuItem>
+    <navigationMenuItem>
+        <label>Resources</label>
+        <position>2</position>
+        <publiclyAvailable>true</publiclyAvailable>
+        <target>/resources</target>
+        <type>InternalLink</type>
+    </navigationMenuItem>
 </NavigationMenu>
