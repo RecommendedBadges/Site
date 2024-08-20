@@ -5,26 +5,26 @@
     <changePasswordTemplate>unfiled$public/CommunityChangePasswordEmailTemplate</changePasswordTemplate>
     <communityRoles/>
     <description>Public facing Experience site with Recommended Badge Mixes and other resources.</description>
-    <disableReputationRecordConversations>true</disableReputationRecordConversations>
+    <disableReputationRecordConversations>false</disableReputationRecordConversations>
     <emailSenderAddress>blearn5241@gmail.com</emailSenderAddress>
     <emailSenderName>Recommended Badges</emailSenderName>
     <enableApexCDNCaching>true</enableApexCDNCaching>
     <enableCustomVFErrorPageOverrides>false</enableCustomVFErrorPageOverrides>
-    <enableDirectMessages>true</enableDirectMessages>
+    <enableDirectMessages>false</enableDirectMessages>
     <enableExperienceBundleBasedSnaOverrideEnabled>true</enableExperienceBundleBasedSnaOverrideEnabled>
-    <enableGuestChatter>false</enableGuestChatter>
+    <enableGuestChatter>true</enableGuestChatter>
     <enableGuestFileAccess>false</enableGuestFileAccess>
     <enableGuestMemberVisibility>false</enableGuestMemberVisibility>
-    <enableImageOptimizationCDN>true</enableImageOptimizationCDN>
+    <enableImageOptimizationCDN>false</enableImageOptimizationCDN>
     <enableInvitation>false</enableInvitation>
     <enableKnowledgeable>false</enableKnowledgeable>
     <enableMemberVisibility>false</enableMemberVisibility>
-    <enableNicknameDisplay>true</enableNicknameDisplay>
+    <enableNicknameDisplay>false</enableNicknameDisplay>
     <enablePrivateMessages>false</enablePrivateMessages>
     <enableReputation>false</enableReputation>
     <enableShowAllNetworkSettings>false</enableShowAllNetworkSettings>
     <enableSiteAsContainer>true</enableSiteAsContainer>
-    <enableTalkingAboutStats>true</enableTalkingAboutStats>
+    <enableTalkingAboutStats>false</enableTalkingAboutStats>
     <enableTopicAssignmentRules>true</enableTopicAssignmentRules>
     <enableTopicSuggestions>false</enableTopicSuggestions>
     <enableUpDownVote>false</enableUpDownVote>
@@ -46,6 +46,7 @@
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
     <site>Recommended_Badges</site>
+    <siteArchiveStatus>NotArchived</siteArchiveStatus>
     <status>Live</status>
     <tabs>
         <defaultTab>home</defaultTab>

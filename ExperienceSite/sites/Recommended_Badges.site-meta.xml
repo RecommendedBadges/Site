@@ -27,6 +27,5 @@
     <siteAdmin>blearn5241@wise-impala-ijbwfx.com</siteAdmin>
     <siteGuestRecordDefaultOwner>blearn5241@wise-impala-ijbwfx.com</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>recommended-badges-developer-edition</subdomain>
     <urlPathPrefix>visualforce</urlPathPrefix>
 </CustomSite>
