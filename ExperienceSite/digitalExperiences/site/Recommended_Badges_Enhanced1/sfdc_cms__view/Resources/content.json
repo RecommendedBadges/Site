@@ -74,5 +74,6 @@
     "dataProviders" : [ ],
     "themeLayoutType" : "jVnzAcx1WGDh7dJGFTKJbCK1uMDZdW",
     "viewType" : "custom-resources"
-  }
+  },
+  "urlName" : "resources"
 }

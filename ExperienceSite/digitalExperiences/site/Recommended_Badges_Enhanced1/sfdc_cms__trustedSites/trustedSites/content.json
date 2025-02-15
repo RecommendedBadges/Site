@@ -15,5 +15,6 @@
       "source" : "https://www.googletagmanager.com/gtag/js",
       "sourceName" : "www.googletagmanager.com"
     } ]
-  }
+  },
+  "urlName" : "trustedsites"
 }

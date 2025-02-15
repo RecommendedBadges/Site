@@ -7,5 +7,6 @@
     "pageAccess" : "Public",
     "routeType" : "home",
     "urlPrefix" : ""
-  }
+  },
+  "urlName" : "home"
 }

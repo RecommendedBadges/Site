@@ -19,5 +19,6 @@
       },
       "menuItems" : [ ]
     }
-  }
+  },
+  "urlName" : "sites-core-nativeconfig"
 }

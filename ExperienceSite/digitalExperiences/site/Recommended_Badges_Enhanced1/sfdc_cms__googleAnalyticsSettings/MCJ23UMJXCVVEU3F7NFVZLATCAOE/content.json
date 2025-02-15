@@ -3,5 +3,6 @@
   "title" : "googleAnalyticsSettings",
   "contentBody" : {
     "apiKey" : "G-2N1DJZ4RVX"
-  }
+  },
+  "urlName" : "googleanalyticssettings"
 }

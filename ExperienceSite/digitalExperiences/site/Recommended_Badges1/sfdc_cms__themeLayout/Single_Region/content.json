@@ -1,0 +1,60 @@
+{
+  "type" : "sfdc_cms__themeLayout",
+  "title" : "Single Region",
+  "contentBody" : {
+    "component" : {
+      "attributes" : { },
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"a24c1939-5466-4ea2-8eea-535eedb7ce0c\",\"columns\":[{\"UUID\":\"511536fe-7184-4c7a-8158-34eb98c72256\",\"columnName\":\"Column 1\",\"columnKey\":\"headerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "id" : "511536fe-7184-4c7a-8158-34eb98c72256",
+            "name" : "headerSection",
+            "title" : "Theme Header",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "a24c1939-5466-4ea2-8eea-535eedb7ce0c",
+          "type" : "component"
+        } ],
+        "id" : "3da72f75-ca96-4362-b2af-87af50296a12",
+        "name" : "header",
+        "title" : "Theme Header",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"e110165c-b57d-465a-90ae-2e9a3a4fd4d8\",\"columns\":[{\"UUID\":\"fdbbfeb6-ce69-4c1a-a6c3-780a930cb991\",\"columnName\":\"Column 1\",\"columnKey\":\"footerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "id" : "fdbbfeb6-ce69-4c1a-a6c3-780a930cb991",
+            "name" : "footerSection",
+            "title" : "Theme Footer",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "e110165c-b57d-465a-90ae-2e9a3a4fd4d8",
+          "type" : "component"
+        } ],
+        "id" : "8813021e-5749-429f-bacd-bde7e1160573",
+        "name" : "footer",
+        "title" : "Theme Footer",
+        "type" : "region"
+      }, {
+        "id" : "63f1fc43-6b5d-4360-8e55-53110d6f23ad",
+        "name" : "default",
+        "type" : "region"
+      } ],
+      "definition" : "c:singleRegionThemeLayout",
+      "id" : "dbff3ce2-6d91-4342-aa9a-9a276e9febfe",
+      "type" : "component"
+    }
+  },
+  "urlName" : "single-region"
+}

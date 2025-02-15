@@ -2,6 +2,32 @@
   "status": 0,
   "result": [
     {
+      "createdById": "0058c00000AORT9AAP",
+      "createdByName": "Automated Process",
+      "createdDate": "2025-02-15T09:00:32.000Z",
+      "fileName": "digitalExperiences/content/Recommended_Badges_Enhanced.digitalExperience",
+      "fullName": "content/Recommended_Badges_Enhanced",
+      "id": "0jd8c0000004CfiAAE",
+      "lastModifiedById": "0058c00000AORT9AAP",
+      "lastModifiedByName": "Automated Process",
+      "lastModifiedDate": "2025-02-15T09:00:32.000Z",
+      "manageableState": "unmanaged",
+      "type": "DigitalExperienceBundle"
+    },
+    {
+      "createdById": "0058c00000AORS0AAP",
+      "createdByName": "Ben Learn",
+      "createdDate": "2025-02-15T16:25:16.000Z",
+      "fileName": "digitalExperiences/site/Recommended_Badges1.digitalExperience",
+      "fullName": "site/Recommended_Badges1",
+      "id": "0jd8c0000004CfpAAE",
+      "lastModifiedById": "0058c00000AORS0AAP",
+      "lastModifiedByName": "Ben Learn",
+      "lastModifiedDate": "2025-02-15T16:25:16.000Z",
+      "manageableState": "unmanaged",
+      "type": "DigitalExperienceBundle"
+    },
+    {
       "createdById": "0058c00000AORS0AAP",
       "createdByName": "Ben Learn",
       "createdDate": "2023-02-18T13:55:57.000Z",
@@ -11,6 +37,7 @@
       "lastModifiedById": "0058c00000AORS0AAP",
       "lastModifiedByName": "Ben Learn",
       "lastModifiedDate": "2023-02-18T13:55:57.000Z",
+      "manageableState": "unmanaged",
       "type": "DigitalExperienceBundle"
     }
   ]

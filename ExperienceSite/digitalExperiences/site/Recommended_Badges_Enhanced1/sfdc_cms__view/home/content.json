@@ -73,5 +73,6 @@
     "dataProviders" : [ ],
     "themeLayoutType" : "jVnzAcx1WGDh7dJGFTKJbCK1uMDZdW",
     "viewType" : "home"
-  }
+  },
+  "urlName" : "home"
 }

@@ -1,0 +1,16 @@
+{
+  "type" : "sfdc_cms__trustedSites",
+  "title" : "trustedSites",
+  "contentBody" : {
+    "trustedSites" : [ {
+      "isActive" : true,
+      "source" : "https://www.google-analytics.com",
+      "sourceName" : "Google Analytics"
+    }, {
+      "isActive" : true,
+      "source" : "https://www.googletagmanager.com",
+      "sourceName" : "Google Tag Manager"
+    } ]
+  },
+  "urlName" : "trustedsites"
+}

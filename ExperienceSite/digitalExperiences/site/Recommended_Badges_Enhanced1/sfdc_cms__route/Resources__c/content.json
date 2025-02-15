@@ -7,5 +7,6 @@
     "pageAccess" : "Public",
     "routeType" : "custom-resources",
     "urlPrefix" : "resources"
-  }
+  },
+  "urlName" : "resources"
 }

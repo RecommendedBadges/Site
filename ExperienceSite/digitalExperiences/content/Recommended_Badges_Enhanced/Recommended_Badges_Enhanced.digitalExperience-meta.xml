@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DigitalExperienceBundle xmlns="http://soap.sforce.com/2006/04/metadata">
+    <description>CMS Workspace for content used on the Recommended Badges (Enhanced) Experience site.</description>
+    <label>Recommended Badges (Enhanced)</label>
+</DigitalExperienceBundle>

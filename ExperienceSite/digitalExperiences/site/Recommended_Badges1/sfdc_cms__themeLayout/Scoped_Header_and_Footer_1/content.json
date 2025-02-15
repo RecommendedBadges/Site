@@ -1,0 +1,56 @@
+{
+  "type" : "sfdc_cms__themeLayout",
+  "title" : "Default",
+  "contentBody" : {
+    "component" : {
+      "attributes" : { },
+      "children" : [ {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"eec12351-0e40-4b2b-be6a-96fefde157fe\",\"columns\":[{\"UUID\":\"6db346c6-8ab7-4b93-9219-510b53fcee84\",\"columnName\":\"Column 1\",\"columnKey\":\"headerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "id" : "6db346c6-8ab7-4b93-9219-510b53fcee84",
+            "name" : "headerSection",
+            "title" : "Theme Header",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "eec12351-0e40-4b2b-be6a-96fefde157fe",
+          "type" : "component"
+        } ],
+        "id" : "d77aaae5-37d9-4fc3-95aa-c92565917653",
+        "name" : "header",
+        "title" : "Theme Header",
+        "type" : "region"
+      }, {
+        "children" : [ {
+          "attributes" : {
+            "backgroundImageConfig" : "",
+            "backgroundImageOverlay" : "rgba(0,0,0,0)",
+            "sectionConfig" : "{\"UUID\":\"8e9af069-7ee5-4048-b7fb-7369c0ba78aa\",\"columns\":[{\"UUID\":\"0b1a7a96-0c1c-4add-bd47-d49a3ea43deb\",\"columnName\":\"Column 1\",\"columnKey\":\"footerSection\",\"columnWidth\":\"12\",\"seedComponents\":null}]}"
+          },
+          "children" : [ {
+            "id" : "0b1a7a96-0c1c-4add-bd47-d49a3ea43deb",
+            "name" : "footerSection",
+            "title" : "Theme Footer",
+            "type" : "region"
+          } ],
+          "definition" : "community_layout:section",
+          "id" : "8e9af069-7ee5-4048-b7fb-7369c0ba78aa",
+          "type" : "component"
+        } ],
+        "id" : "f6ec160b-7275-4200-a6e0-6895d769c978",
+        "name" : "footer",
+        "title" : "Theme Footer",
+        "type" : "region"
+      } ],
+      "definition" : "community_byo:scopedHeaderAndFooter",
+      "id" : "147aa06c-f712-4cc0-a894-cfb10699e20f",
+      "type" : "component"
+    }
+  },
+  "urlName" : "default"
+}
