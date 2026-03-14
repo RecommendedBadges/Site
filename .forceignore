@@ -106,3 +106,10 @@ usageProgressBar**
 **/tsconfig.json
 
 **/*.ts
+
+**Recommended_Badges1**
+ExperienceSite/audience/Default_Recommended Badges.audience-meta.xml
+ExperienceSite/networks/Recommended Badges.network-meta.xml
+ExperienceSite/sites/Recommended_Badges.site-meta.xml
+ExperienceSite/networkBranding/cbRecommended_Badges.networkBranding
+ExperienceSite/networkBranding/cbRecommended_Badges.networkBranding-meta.xml
