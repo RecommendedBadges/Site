@@ -9,6 +9,10 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
+        <apexClass>RecommendedArticlesContainerController</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
         <apexClass>RecommendedBadgeMixController</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -52,6 +56,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>RecommendedArticle__c.ArticleHyperlink__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>RecommendedArticle__c.Site__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
