@@ -44,6 +44,7 @@
                     "dropdownTextDecorationOverride" : "",
                     "dropdownTextStyle" : "body-regular",
                     "dropdownTopBorderRadius" : "5px",
+                    "dxpStyle" : { },
                     "fontSizeOverride" : "",
                     "fontWeightOverride" : "",
                     "hoverLineColor" : "rgb(170, 203, 255)",
@@ -73,6 +74,7 @@
                 "children" : [ {
                   "attributes" : {
                     "burgerIconHorizontalAlignment" : "left",
+                    "dxpStyle" : { },
                     "modalAccordionIconSize" : "xx-small",
                     "modalActiveBackgroundColor" : "rgba(255, 255, 255, 0)",
                     "modalActiveLineWeight" : "5px",
